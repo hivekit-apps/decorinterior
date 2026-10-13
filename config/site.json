@@ -1,0 +1,693 @@
+{
+  "business": {
+    "name": "Decor Interior",
+    "parentName": "Decor Coatings",
+    "parentUrl": "https://decorcoatings.ca",
+    "tagline": "Interior finishes for GTA homes and commercial spaces",
+    "shortDescription": "Epoxy flooring, polished concrete, decorative overlays, and interior stucco by the Decor Coatings team — Toronto and across the GTA.",
+    "siteUrl": "https://decorinterior.ca",
+    "phone": "613-777-5058",
+    "phoneDisplay": "(613) 777-5058",
+    "email": "info@decorcoatings.ca",
+    "hours": "Mon–Fri 7am–7pm • Saturday by appointment",
+    "basedIn": "Eastern Ontario — serving the GTA year-round",
+    "heroImage": null,
+    "heroImageAlt": "Interior epoxy flooring in a modern GTA home"
+  },
+  "categories": [
+    { "slug": "flooring", "name": "Flooring", "description": "Durable, decorative interior floor systems — epoxy, polished concrete, and more." },
+    { "slug": "concrete", "name": "Concrete Finishes", "description": "Decorative concrete work — overlays, staining, resurfacing, and feature elements." },
+    { "slug": "specialty", "name": "Specialty Finishes", "description": "Waterproofing, accent walls, and architectural finishes." }
+  ],
+  "services": [
+    {
+      "slug": "garage-epoxy-flooring",
+      "name": "Garage Epoxy Flooring",
+      "shortName": "Garage Epoxy",
+      "category": "flooring",
+      "tagline": "A showroom-grade finish that handles winter salt, hot tires, and dropped tools.",
+      "description": "A proper garage floor earns its keep every day of the year. In the GTA, that means handling road salt tracked in from November through April, oil drips from vehicles, scraped bumpers, and the kind of foot traffic a working garage sees. Our garage epoxy systems are built in two or three coats depending on use: a penetrating primer that bonds to the concrete slab, a high-build body coat with decorative flake broadcast into it for grip and visual depth, and a UV-stable topcoat that resists hot-tire pickup and chemical spills. The result is a surface that looks like it belongs in a dealership and holds up to a decade or more of daily driving. We grind every slab mechanically before the first coat — no acid etch shortcuts — because mechanical profile is the single biggest predictor of coating longevity. The whole job on a two-car garage runs 2–3 days, mostly cure time, and your floor is ready to park on in roughly a week.",
+      "features": [
+        "Full diamond-grind concrete prep (no acid etching)",
+        "100% solids epoxy base coat with decorative flake broadcast",
+        "UV-stable polyaspartic or polyurethane topcoat",
+        "Hot-tire-pickup resistant",
+        "Chemical-resistant (oil, gas, brake fluid, salt)",
+        "Non-slip texture built into the flake system",
+        "Choice of flake colour blends — standard, custom, or metallic",
+        "10+ year lifespan with normal use"
+      ],
+      "process": [
+        "Full inspection and moisture test on the existing slab",
+        "Mechanical diamond grind to open the concrete profile",
+        "Crack and joint repair with flexible polyurea filler",
+        "Prime coat applied and left to cure overnight",
+        "High-build body coat with decorative flake broadcast to refusal",
+        "Topcoat applied the following day",
+        "Return traffic ready in 24 hours, hot tires in 5–7 days"
+      ],
+      "idealFor": [
+        "New-build homes finishing an unfinished garage",
+        "Older GTA garages ready for an upgrade",
+        "Multi-car garages with heavy vehicle traffic",
+        "Collector-car and workshop garages",
+        "Condo and townhouse garages seeking a showroom finish"
+      ],
+      "faqs": [
+        { "q": "How long before I can park on it?", "a": "Light foot traffic the next day. Normal driving by day 5, and hot tires after a week of cure time at room temperature." },
+        { "q": "Will it crack if my slab cracks?", "a": "Hairline cracks that already exist get filled with a flexible polyurea before coating. New structural cracks will still telegraph through — no coating prevents a slab from moving — but the surface remains sealed and the crack is cosmetic rather than a dirt-catching chasm." },
+        { "q": "Can it be done in winter?", "a": "Yes, as long as the garage holds above roughly 10°C during cure. Most GTA garages with any heat source qualify. We bring supplemental heat if needed." }
+      ],
+      "photo": null,
+      "photoAlt": "Decorative flake garage epoxy floor in a GTA home"
+    },
+    {
+      "slug": "residential-epoxy-flooring",
+      "name": "Residential Epoxy Flooring",
+      "shortName": "Residential Epoxy",
+      "category": "flooring",
+      "tagline": "Seamless, waterproof floors for basements, laundry rooms, workshops, and mudrooms.",
+      "description": "Residential epoxy isn't just for garages. In a basement, laundry room, mudroom, or hobby workshop, an epoxy floor is one of the most practical surfaces you can install — fully sealed, waterproof at the surface, resistant to spills, and easy to mop. We work directly with homeowners to choose colour, texture, and flake pattern that fits the space: a solid matte charcoal for a modern basement rec room, a warm tan flake for a mudroom that'll see muddy boots, or a metallic marbled finish for a home gym that doubles as entertaining space. Each room gets the full prep treatment — moisture test, mechanical grind, crack repair — because the biggest difference between a floor that lasts fifteen years and a floor that peels in two is the prep underneath. We fit timelines around your family: most residential rooms are drive-on done in 48 hours and back in service by the weekend.",
+      "features": [
+        "Full moisture testing before scheduling",
+        "Mechanical surface prep (no shortcuts)",
+        "Choice of solid colour, flake, or metallic finishes",
+        "Matte, satin, or high-gloss topcoat",
+        "Easy-to-clean, seamless surface — no grout lines",
+        "Waterproof at the surface (ideal for basements)",
+        "Low-odour installation options",
+        "Pet-friendly after cure"
+      ],
+      "process": [
+        "In-home consultation and colour selection",
+        "Floor moisture test and crack mapping",
+        "Furniture-out, mechanical grind, crack repair",
+        "Primer coat and let cure",
+        "Decorative or solid-colour body coat",
+        "Topcoat with chosen gloss level",
+        "Walk-on next day, furniture back by end of week"
+      ],
+      "idealFor": [
+        "Finished basements and rec rooms",
+        "Laundry rooms and utility spaces",
+        "Mudrooms and entryways",
+        "Home workshops and hobby garages",
+        "Home gyms and yoga studios"
+      ],
+      "faqs": [
+        { "q": "Does it feel cold like bare concrete?", "a": "Yes — the surface temperature matches the concrete beneath. For basements, we often recommend pairing with area rugs or a radiant floor system if you're starting from scratch." },
+        { "q": "How disruptive is the install?", "a": "The room needs to be emptied for 48–72 hours. We bring HEPA-filtered grinders so dust stays contained, and low-odour chemistry options exist for rooms adjacent to living spaces." },
+        { "q": "What about moisture pushing up from below?", "a": "This is the biggest reason basements fail. We always test slab moisture first. If vapour emission is high, we spec a moisture-tolerant primer specifically designed to tolerate hydrostatic pressure from below." }
+      ],
+      "photo": null,
+      "photoAlt": "Residential epoxy floor in a finished basement"
+    },
+    {
+      "slug": "commercial-epoxy-flooring",
+      "name": "Commercial Epoxy Flooring",
+      "shortName": "Commercial Epoxy",
+      "category": "flooring",
+      "tagline": "High-traffic floors for showrooms, warehouses, retail, gyms, and auto shops.",
+      "description": "Commercial floors have a different job than residential ones. They need to hold up to forklifts, pallet jacks, rolling retail displays, dropped weights, and the odd oil leak — all while looking presentable to customers walking in the door. Our commercial epoxy and polyaspartic systems are specified based on the actual use: a car showroom needs reflectivity and chemical resistance; a dumbbell gym needs impact resistance and sound dampening; a warehouse needs abrasion resistance and clear traffic markings. We handle everything from a 1,500 sq ft retail showroom to multi-tenant industrial facilities, with scheduling that works around your operation — overnight pours, weekend installs, and phased sections so you never have to close completely. Line striping, logos, and safety markings are integrated into the system where needed.",
+      "features": [
+        "Specification matched to actual commercial use case",
+        "Overnight and weekend install options to minimize downtime",
+        "Line striping, zone markings, and inlaid logos",
+        "Chemical, abrasion, and impact resistance",
+        "Forklift and pallet jack rated",
+        "Safety yellows, exit lanes, and OSHA-compliant markings",
+        "Phased installation on larger facilities",
+        "Written performance warranty"
+      ],
+      "process": [
+        "Site walkthrough and use-case documentation",
+        "Specification and shop drawings (if required)",
+        "Scheduling around your operating hours",
+        "Full surface prep (shot blast or grind depending on substrate)",
+        "Repair of joints, cracks, and divots",
+        "Multi-coat application with cure windows",
+        "Line striping and markings",
+        "Final walk-through and warranty handover"
+      ],
+      "idealFor": [
+        "Car dealerships and showrooms",
+        "Retail stores and shopping-centre tenants",
+        "Fitness facilities and gyms",
+        "Auto repair and detailing shops",
+        "Warehouses and distribution centres",
+        "Light-manufacturing floors",
+        "Commercial kitchens (slip-resistant systems)"
+      ],
+      "faqs": [
+        { "q": "Can you work around our hours?", "a": "Yes. We routinely schedule overnight pours, weekend installs, and phased sections. The limitation is cure time, not labour hours — we plan around that." },
+        { "q": "Do you provide warranties?", "a": "Every commercial job comes with a written performance warranty specific to the system installed. Typical range: 5–10 years depending on the specification." },
+        { "q": "What about health-code zones like kitchens?", "a": "We spec specific slip-resistant, chemical-tolerant systems for commercial kitchens, and we're familiar with the local health-unit requirements across the GTA." }
+      ],
+      "photo": null,
+      "photoAlt": "Commercial epoxy floor in a GTA showroom"
+    },
+    {
+      "slug": "polished-concrete-floors",
+      "name": "Polished Concrete Floors",
+      "shortName": "Polished Concrete",
+      "category": "flooring",
+      "tagline": "Low-maintenance architectural flooring with a seamless, modern finish.",
+      "description": "Polished concrete isn't a coating — it's a mechanical refinement of the concrete slab itself. Using progressively finer diamond-impregnated pads, we grind, hone, and polish the existing floor until it reaches the gloss level you want: a soft honed matte, a satin sheen, or a mirror polish that reflects the ceiling. Along the way, we densify the surface with lithium silicate, which fills microscopic pores and makes the final floor significantly harder and more stain-resistant than raw concrete. The result is a floor that lasts the life of the building, requires only occasional buffing to maintain, and has zero volatile chemistry — nothing to off-gas, nothing to peel. We polish floors in modern homes, retail spaces, galleries, offices, and light-industrial spaces across the GTA. The look pairs beautifully with modern or minimalist architecture, and the operating cost over fifteen years is lower than practically any other flooring option.",
+      "features": [
+        "Mechanical polish — no coatings, no VOCs",
+        "Lithium silicate densification for hardness and stain resistance",
+        "Choice of matte, satin, semi-gloss, or mirror finish",
+        "Three aggregate exposure levels (cream, salt-and-pepper, full aggregate)",
+        "Optional dye for colour tint",
+        "Lifetime floor — refresh instead of replace",
+        "Minimal ongoing maintenance (dust-mop + occasional buff)",
+        "Zero off-gassing — safe for homes and sensitive spaces"
+      ],
+      "process": [
+        "Floor assessment: slab condition, aggregate size, existing coatings",
+        "Removal of any existing coating or adhesive residue",
+        "Coarse grinding to open the surface and expose aggregate",
+        "Crack and spall repair with colour-matched polymer",
+        "Densifier application and penetration cure",
+        "Progressive honing: 100 → 200 → 400 → 800 grit",
+        "Final polish to desired gloss (up to 3000 grit)",
+        "Guard application to protect against stains and daily wear"
+      ],
+      "idealFor": [
+        "Modern homes with open-concept main floors",
+        "Lofts and converted industrial residences",
+        "Retail, galleries, and showrooms",
+        "Offices and co-working spaces",
+        "Restaurants (back-of-house and polished front-of-house)",
+        "Any space where the slab is already in good condition"
+      ],
+      "faqs": [
+        { "q": "Can you polish an older or stained slab?", "a": "Usually yes. Older slabs often grind up beautifully once the top layer is removed. Deep stains or oil penetration can show through, which we document before starting so there are no surprises." },
+        { "q": "Does it stay shiny forever?", "a": "The polish holds for years with normal residential use. Commercial floors benefit from a yearly buff with a lithium polish-conditioner. If the shine ever drops, we can re-polish the top layer in a day without starting over." },
+        { "q": "What about radiant heating?", "a": "Polished concrete is excellent for radiant floors — the concrete mass stores and distributes heat beautifully, and there's no coating layer to insulate the surface." }
+      ],
+      "photo": null,
+      "photoAlt": "Polished concrete floor in a modern Toronto home"
+    },
+    {
+      "slug": "concrete-staining",
+      "name": "Concrete Staining",
+      "shortName": "Concrete Staining",
+      "category": "concrete",
+      "tagline": "Rich, variegated colour applied directly to interior concrete — no two floors identical.",
+      "description": "Concrete staining is how you take a plain grey slab and turn it into something that looks like aged leather, weathered stone, or hand-rubbed wood. We work with both acid-based reactive stains, which chemically bond with the concrete and produce rich, variegated earthy tones, and water-based dyes, which offer a wider colour range and more predictable application. The look depends heavily on the slab underneath — curing age, finish technique, embedded aggregate — which is why no two stained floors are exactly alike. That variability is the entire appeal. We seal every stained floor with a penetrating sealer, a wax, or a clear topcoat depending on use and desired sheen. The result is a one-of-a-kind interior floor with the character of natural stone and the price point of refinishing what's already there.",
+      "features": [
+        "Choice of acid stain (reactive, earthy) or water-based dye (broad palette)",
+        "Multi-colour application for depth and movement",
+        "Translucent — slab character becomes part of the design",
+        "Sealed with penetrating sealer, wax, or clear topcoat",
+        "Compatible with scoring, saw-cut patterns, and inlays",
+        "Low-VOC options available",
+        "No two floors are identical",
+        "Works over previously-coated concrete after removal"
+      ],
+      "process": [
+        "Slab preparation: remove existing coatings, open the pores",
+        "Test patch in an inconspicuous area to confirm reaction",
+        "Stain application in planned patterns or free-form",
+        "Neutralization (for acid stains) and cleanup",
+        "Optional second colour layer for depth",
+        "Sealer or topcoat application",
+        "Final buff and handover"
+      ],
+      "idealFor": [
+        "Open-plan main floors seeking character",
+        "Entryways, foyers, and feature zones",
+        "Finished basements with a modern aesthetic",
+        "Restaurants and boutique retail wanting a unique look",
+        "Historic properties where the slab is part of the story"
+      ],
+      "faqs": [
+        { "q": "How do I know what colour it'll end up?", "a": "We always do a test patch — usually a 2-foot square in a corner — so you can see how your specific slab reacts before we commit to the full floor. The character of each slab shapes the final result." },
+        { "q": "Will it fade?", "a": "Under a sealer, acid stains are permanent and don't fade. Water-based dyes have slightly less UV resistance and should be sealed with a UV-stable topcoat if there's direct sunlight on the floor." },
+        { "q": "What if I don't like it?", "a": "This is why we do test patches. If you don't like how your slab is reacting, we switch to a water-based dye or a different approach before applying to the full area." }
+      ],
+      "photo": null,
+      "photoAlt": "Acid-stained concrete floor in a GTA home"
+    },
+    {
+      "slug": "decorative-concrete-overlays",
+      "name": "Decorative Concrete Overlays",
+      "shortName": "Concrete Overlays",
+      "category": "concrete",
+      "tagline": "Resurface worn concrete with a stamped, troweled, or spray-textured architectural finish.",
+      "description": "Decorative overlays are thin, polymer-modified cementitious coatings that bond to existing concrete and give you a fresh, designed surface — stamped like flagstone, troweled smooth, broom-finished, or spray-textured. Overlays are the right call when the slab is structurally sound but the surface is tired: pitted, stained beyond staining, poorly finished originally, or just dated. Instead of ripping out and re-pouring (which is expensive and disruptive), we bond a 1/8-to-1/2-inch overlay directly to what's there. The design options are broad: hand-cut flagstone patterns, European tile looks, slate textures, broom finishes, or clean modern trowel marks. Overlays can be colour-integrated or stained afterward, and we seal every overlay for durability. Interior overlays last decades indoors because they're protected from freeze-thaw.",
+      "features": [
+        "Bonds to existing concrete — no demo required",
+        "1/8-inch to 1/2-inch build thickness",
+        "Stampable, trowelable, spray-textureable",
+        "Pattern options: flagstone, slate, tile, broom, modern trowel",
+        "Colour integrated or stained after cure",
+        "Sealed for interior longevity",
+        "Faster and cheaper than demo and re-pour",
+        "Can hide pitted, stained, or poorly-finished slabs"
+      ],
+      "process": [
+        "Assess existing slab for soundness and moisture",
+        "Clean and profile the surface for bonding",
+        "Apply bonding primer coat",
+        "Install overlay to desired thickness",
+        "Stamp, trowel, or texture while workable",
+        "Cure, then colour (integral or stain)",
+        "Seal with chosen sealer type"
+      ],
+      "idealFor": [
+        "Worn or dated interior concrete floors",
+        "Entryways and foyers wanting a stone look",
+        "Sunrooms and three-season rooms",
+        "Basement floors with cosmetic (not structural) issues",
+        "Commercial lobbies and feature walls"
+      ],
+      "faqs": [
+        { "q": "Can you match a specific stone look?", "a": "In most cases, yes. We have texture mats and stamp patterns for popular stone types, and hand-tooling can replicate most natural patterns. Share a photo of what you're after." },
+        { "q": "How thick does it need to be?", "a": "For foot traffic indoors, 1/8 to 1/4 inch is typical. If you need to level a slab or hide significant pitting, we build thicker and feather edges to meet adjacent flooring." },
+        { "q": "Will it crack where the slab cracks?", "a": "An overlay bonds to the slab, so if the slab moves significantly, the overlay will follow. For existing cracks, we route and fill with flexible polyurethane before overlay, which minimizes crack telegraphing." }
+      ],
+      "photo": null,
+      "photoAlt": "Stamped concrete overlay in an interior entryway"
+    },
+    {
+      "slug": "basement-floor-coating",
+      "name": "Basement Floor Coating",
+      "shortName": "Basement Coating",
+      "category": "flooring",
+      "tagline": "Finish your basement floor properly — sealed, decorative, and ready for everyday use.",
+      "description": "A basement floor coating is often the most impactful upgrade you can do in a finished basement. Below-grade concrete is prone to moisture migration from below and condensation from above, and most finishing systems (vinyl plank, carpet, laminate) handle this poorly over time. A properly specified coating — epoxy, polyaspartic, or a hybrid system — is permanently bonded to the slab, waterproof at the surface, and will outlast practically any other flooring choice in that space. We moisture-test every basement slab before scheduling because moisture is the single biggest predictor of basement coating failure, and we match the primer specifically to the moisture vapour emission level we measure. The finish can be solid, decorative flake, or metallic depending on the room's purpose: subdued charcoal for a theatre room, warm tan flake for a kids' play area, metallic marbled teal for a home office with character. We've coated basement floors across every neighbourhood in the GTA, from century-old Toronto homes to new-build suburban basements.",
+      "features": [
+        "Comprehensive moisture testing before quote",
+        "Moisture-tolerant primer when vapour emission is high",
+        "Full crack and joint repair integrated",
+        "Choice of solid, flake, or metallic finish",
+        "Waterproof at the surface",
+        "Easier to clean than any other basement flooring",
+        "Allergy-friendly — no carpet to trap dust or dander",
+        "Won't warp, swell, or delaminate from humidity"
+      ],
+      "process": [
+        "Scheduled in-home moisture test (24-hour read)",
+        "Furniture-out and prep of the whole floor area",
+        "Mechanical grind and crack repair",
+        "Moisture-barrier primer where needed",
+        "Base coat with chosen aesthetic (solid or flake broadcast)",
+        "Clear or coloured topcoat",
+        "Walk-on next day, return of furniture within the week"
+      ],
+      "idealFor": [
+        "Finished rec rooms, home theatres, home offices",
+        "Basements with past moisture issues (surveyed first)",
+        "Home gyms and workout spaces",
+        "Kids' play areas and family spaces",
+        "Suite basements and in-law apartments"
+      ],
+      "faqs": [
+        { "q": "What if my basement had moisture problems before?", "a": "We moisture-test first, always. If vapour emission is high, we spec a system that tolerates it. If there's active water intrusion, we'll flag that and recommend addressing the water source before coating." },
+        { "q": "Can I put furniture back right away?", "a": "Light furniture after 48 hours. Heavier items (sofas, treadmills, dressers) after 5 days to let the floor fully harden under load." },
+        { "q": "Does it feel cold?", "a": "Yes, same as any concrete floor. For basements where this matters, pair with area rugs over the main zones. We can also coordinate with heated-floor installers if you're starting from scratch." }
+      ],
+      "photo": null,
+      "photoAlt": "Finished basement floor coating in a Toronto home"
+    },
+    {
+      "slug": "basement-waterproofing",
+      "name": "Basement Waterproofing (Interior)",
+      "shortName": "Basement Waterproofing",
+      "category": "specialty",
+      "tagline": "Interior waterproofing for basements with chronic moisture, seepage, or vapour issues.",
+      "description": "Interior basement waterproofing is a different job than exterior excavation. We work on the inside of the foundation wall and the slab, using crystalline waterproofing coatings, elastomeric membrane systems, and in some cases interior drain tile tied to a sump. The appropriate approach depends on the symptom: efflorescence (white powder on the wall) is a vapour issue; wet spots and streaks after rain are hydrostatic pressure; a cold musty smell is usually both. We diagnose first, then specify. For many GTA basements, a well-applied interior crystalline treatment combined with proper drainage and sealing of the slab-to-wall cold joint resolves everything the owner was worried about, at a fraction of the cost of exterior excavation. For more severe cases, we're honest about when exterior work is the right call and will refer accordingly.",
+      "features": [
+        "Diagnosis-first approach — no one-size solution",
+        "Crystalline waterproofing coatings for walls",
+        "Elastomeric membrane systems where appropriate",
+        "Cold-joint sealing (slab-to-wall)",
+        "Interior drain tile and sump integration",
+        "Honest referral when exterior work is needed",
+        "Compatible with subsequent floor coatings",
+        "Reduces basement humidity and musty odour"
+      ],
+      "process": [
+        "In-home assessment and moisture mapping",
+        "Diagnostic test (vapour vs. hydrostatic vs. both)",
+        "Written specification of the appropriate system",
+        "Surface prep and wall repair",
+        "Crystalline or membrane application",
+        "Cold-joint and penetration sealing",
+        "Optional sump and drain-tile tie-in",
+        "Final moisture reading and handover"
+      ],
+      "idealFor": [
+        "Older GTA homes with chronic basement moisture",
+        "Basements with efflorescence on foundation walls",
+        "Pre-finishing waterproofing before basement renovation",
+        "Suite basements where moisture control is required",
+        "Any basement with musty odour from the slab-wall joint"
+      ],
+      "faqs": [
+        { "q": "Do you excavate from outside?", "a": "No — we focus on interior waterproofing and refer out when exterior excavation is the right call. Most GTA basement issues respond well to interior treatment." },
+        { "q": "Can I finish the basement after?", "a": "Yes — that's often the whole point. Our interior waterproofing systems are compatible with subsequent framing, flooring, and finishes. We coordinate the sequence." },
+        { "q": "What if I have an active leak during rain?", "a": "That's a hydrostatic issue — we handle it with a combination of wall treatment and interior drain-tile systems where appropriate. For severe active leaks, we'll flag whether exterior work is needed." }
+      ],
+      "photo": null,
+      "photoAlt": "Interior waterproofing applied to a basement wall"
+    },
+    {
+      "slug": "interior-concrete-resurfacing",
+      "name": "Interior Concrete Resurfacing",
+      "shortName": "Concrete Resurfacing",
+      "category": "concrete",
+      "tagline": "Fix pitted, cracked, or worn interior concrete without demo and re-pour.",
+      "description": "Interior concrete resurfacing is the practical middle ground between living with a tired slab and tearing it out. If your interior concrete is structurally sound but the surface is pitted, spalled, cracked, or just unattractive, resurfacing bonds a fresh cementitious or polymer layer onto what's there. The build is thinner than a full overlay — typically 1/16 to 1/8 of an inch — and is designed to restore the surface rather than create a new look. From there, the resurfaced slab can accept staining, polishing, or a decorative coating, giving you a full menu of final finishes. Resurfacing is especially useful for garage conversions, retail renovations, and basement upgrades where the original slab wasn't finished with a final use in mind. It's dramatically cheaper and less disruptive than demo and re-pour, and in most cases the finished floor is indistinguishable from new concrete.",
+      "features": [
+        "Thin-build resurfacing (1/16 to 1/8 inch)",
+        "Bonds to structurally sound existing concrete",
+        "Patches pits, spalls, and surface cracks",
+        "Smooth or textured final surface",
+        "Ready to accept staining, polishing, or coating",
+        "No demo, no re-pour, no landfill waste",
+        "Fast turnaround vs. new slab",
+        "Significantly cheaper than full replacement"
+      ],
+      "process": [
+        "Slab assessment: soundness, cracks, moisture",
+        "Mechanical grind to profile the surface",
+        "Route and fill structural cracks",
+        "Apply bonding primer",
+        "Install resurfacing layer to spec thickness",
+        "Smooth-trowel or texture as needed",
+        "Cure, then hand off for final finish of your choice"
+      ],
+      "idealFor": [
+        "Pitted or spalled interior concrete floors",
+        "Garage-conversion rooms being brought up to living standards",
+        "Retail-to-residential conversions",
+        "Basement slabs with cosmetic damage",
+        "Any slab that's sound but ugly"
+      ],
+      "faqs": [
+        { "q": "Can I stain the resurfaced floor?", "a": "Absolutely — this is one of the most common sequences. Resurface first to level the slab, then stain or dye for colour, then seal. Great outcome, cheap compared to new concrete." },
+        { "q": "How do I know if my slab is sound enough?", "a": "We assess at the first visit — tap-test, visual inspection, and if there's doubt, a core cut. Resurfacing requires a stable substrate; if the slab is spalling or lifting, we'll flag that." },
+        { "q": "Is this the same as an overlay?", "a": "Related but different. Resurfacing restores the existing surface at a thin build. Overlays build a new decorative surface on top, often thicker and with pattern work. We'll recommend which fits your situation." }
+      ],
+      "photo": null,
+      "photoAlt": "Interior concrete floor after resurfacing"
+    },
+    {
+      "slug": "decorative-concrete-features",
+      "name": "Decorative Concrete Features",
+      "shortName": "Concrete Features",
+      "category": "concrete",
+      "tagline": "Custom countertops, feature walls, hearths, and architectural concrete elements.",
+      "description": "Concrete isn't just a floor — it's an architectural material, and it works beautifully on vertical surfaces, countertops, fireplace surrounds, and furniture-grade feature pieces. Our decorative concrete work covers kitchen and bath countertops with hand-honed edges, fireplace hearths and surrounds that cast in place or install as prefabricated panels, feature accent walls with hand-troweled texture, and custom pieces like floating benches or integrated sinks. Each piece is designed with the client — colour, texture, aggregate exposure, edge detail — and finished to furniture-grade standards. We work in both cast-in-place and prefabricated-panel approaches depending on access, weight, and timeline. The look fits modern, industrial, and transitional architecture equally well.",
+      "features": [
+        "Custom-designed per project",
+        "Cast-in-place or prefabricated panel installation",
+        "Countertops, hearths, feature walls, custom pieces",
+        "Integral colour or stained finish",
+        "Choice of edge profiles and texture",
+        "Food-safe sealers for kitchen surfaces",
+        "Veining, embedded objects, or exposed aggregate options",
+        "Compatible with sinks, cooktops, and plumbing penetrations"
+      ],
+      "process": [
+        "Design consultation and sketch review",
+        "Template creation (site-measured for countertops)",
+        "Mix design and sample casts for client approval",
+        "Fabrication (shop or on-site depending on piece)",
+        "Finishing: hone, polish, seal",
+        "Installation and seaming (where applicable)",
+        "Final cleaning and sealer top-up"
+      ],
+      "idealFor": [
+        "Kitchen countertops and islands",
+        "Bathroom vanities and integral sinks",
+        "Fireplace surrounds and hearths",
+        "Feature accent walls (interior)",
+        "Custom benches, side tables, and furniture pieces",
+        "Commercial reception counters and bars"
+      ],
+      "faqs": [
+        { "q": "How much do custom concrete countertops cost?", "a": "Price varies with size, edge detail, inlays, and whether we cast on-site or in the shop. We quote per piece after a site measure — reach out for a specific estimate." },
+        { "q": "Will it stain from wine or oil?", "a": "Properly sealed concrete countertops are stain-resistant but not stain-proof. We use food-safe sealers that handle normal kitchen use well, and we re-seal annually if desired." },
+        { "q": "Can you match a specific colour?", "a": "Yes — we create sample casts for client approval before fabricating the final piece. Expect a round of samples to dial in the exact colour and texture." }
+      ],
+      "photo": null,
+      "photoAlt": "Custom concrete countertop in a GTA kitchen"
+    },
+    {
+      "slug": "interior-stucco-accent-walls",
+      "name": "Interior Stucco & Accent Walls",
+      "shortName": "Interior Stucco",
+      "category": "specialty",
+      "tagline": "Venetian plaster, troweled stucco, and architectural accent-wall finishes.",
+      "description": "Interior stucco and Venetian plaster are architectural finishes that bring depth, texture, and the richness of hand-trowel work to walls, ceilings, and feature zones. The look ranges from the glassy polished sheen of classical Venetian plaster to the matte troweled texture of modern limewash and the deep dimensional feel of multi-layered Marmorino. Each system is applied in multiple thin coats, worked while plastic, and burnished or textured by hand — which is why no two walls look exactly alike and why the result reads as hand-crafted rather than factory-produced. We handle feature accent walls, entire rooms, foyers, hospitality lobbies, and feature ceilings. The parent company Decor Coatings has done this work for exterior facades for years; now the same team brings it indoors for GTA homes and commercial projects.",
+      "features": [
+        "Multiple finish systems: Venetian, Marmorino, limewash, troweled stucco",
+        "Hand-applied by experienced plasterers",
+        "Depth and movement that paint cannot replicate",
+        "Choice of matte, satin, or burnished sheen",
+        "Integral colour — no touch-ups needed",
+        "Breathable, mineral-based finishes",
+        "Compatible with modern, traditional, or transitional interiors",
+        "Can be applied over drywall, plaster, or existing paint"
+      ],
+      "process": [
+        "In-home consultation and sample board creation",
+        "Wall preparation and primer coat",
+        "First plaster coat applied and troweled",
+        "Second coat applied with directional strokes",
+        "Burnishing or texturing while workable",
+        "Optional sealing or waxing for sheen",
+        "Final inspection and handover"
+      ],
+      "idealFor": [
+        "Living room and dining room accent walls",
+        "Foyers and entry zones",
+        "Primary bedroom feature walls and ceilings",
+        "Powder rooms and bathrooms",
+        "Hospitality lobbies and restaurant feature zones",
+        "Any wall that would benefit from architectural depth"
+      ],
+      "faqs": [
+        { "q": "Is this the same as painted texture?", "a": "No. Textured paint sits on the surface; plaster is a mineral finish applied in multiple thin coats and worked by hand. The depth, sheen, and feel are fundamentally different — closer to stone than to paint." },
+        { "q": "How long does a wall take?", "a": "A typical accent wall takes 2–3 days: prep and first coat on day one, second coat and burnishing on day two, final touch-up and sealing on day three." },
+        { "q": "Can you match a specific look?", "a": "Yes — share a photo or sample of what you're after, and we'll create a sample board on your actual wall before committing to the full project. This is how we dial in the exact colour and texture." }
+      ],
+      "photo": null,
+      "photoAlt": "Venetian plaster accent wall in a GTA home"
+    }
+  ],
+  "cities": [
+    {
+      "slug": "toronto",
+      "name": "Toronto",
+      "region": "Toronto",
+      "neighborhoods": ["Downtown", "Yorkville", "Liberty Village", "King West", "Rosedale", "Forest Hill", "The Beaches", "Leslieville", "Trinity Bellwoods", "High Park"],
+      "localContext": "Toronto homes range from century-old Victorian and Edwardian builds through mid-century bungalows to new infill and condo stock — each with its own concrete substrate conditions. We adjust prep and specification based on what we find on site, from original 1920s basements to brand-new garage slabs.",
+      "drivetime": "same-day",
+      "isHighlighted": true
+    },
+    {
+      "slug": "north-york",
+      "name": "North York",
+      "region": "Toronto",
+      "neighborhoods": ["Willowdale", "Don Mills", "Bayview Village", "North York Centre", "Lawrence Park"],
+      "localContext": "North York's housing mix of post-war bungalows, custom new-builds, and high-density condo projects means we see every kind of interior concrete — from unfinished basement slabs to high-end polished-concrete main floors in custom homes.",
+      "drivetime": "same-day",
+      "isHighlighted": false
+    },
+    {
+      "slug": "scarborough",
+      "name": "Scarborough",
+      "region": "Toronto",
+      "neighborhoods": ["Agincourt", "Rouge", "Guildwood", "Highland Creek", "Malvern"],
+      "localContext": "Scarborough's broad mix of post-war suburban housing, newer townhouse developments, and light-commercial space along the main corridors keeps our schedule varied. Basement coatings and garage epoxy work in Scarborough homes are two of our most-requested jobs.",
+      "drivetime": "same-day",
+      "isHighlighted": false
+    },
+    {
+      "slug": "etobicoke",
+      "name": "Etobicoke",
+      "region": "Toronto",
+      "neighborhoods": ["The Kingsway", "Mimico", "Long Branch", "Islington", "Humber Bay Shores"],
+      "localContext": "Etobicoke spans character neighbourhoods like The Kingsway, waterfront condo stock in Mimico and Humber Bay, and mid-century suburban housing — all served by a crew that knows the quirks of each era's concrete work.",
+      "drivetime": "same-day",
+      "isHighlighted": false
+    },
+    {
+      "slug": "mississauga",
+      "name": "Mississauga",
+      "region": "Peel",
+      "neighborhoods": ["Port Credit", "Streetsville", "Mississauga Valleys", "Erin Mills", "Clarkson", "Lakeview"],
+      "localContext": "Mississauga has one of the GTA's largest inventories of large-garage homes and finished basements, plus a growing roster of modern infill in Port Credit and Clarkson. Our garage epoxy and basement coating work here runs year-round.",
+      "drivetime": "same-day",
+      "isHighlighted": true
+    },
+    {
+      "slug": "brampton",
+      "name": "Brampton",
+      "region": "Peel",
+      "neighborhoods": ["Downtown Brampton", "Bramalea", "Mount Pleasant", "Fletcher's Meadow", "Castlemore"],
+      "localContext": "Brampton's rapid residential growth means a huge inventory of newer homes with unfinished garage and basement slabs — prime candidates for epoxy flooring and basement finish coatings. We handle the full range from townhouse garages to large-estate workshops.",
+      "drivetime": "same-day",
+      "isHighlighted": false
+    },
+    {
+      "slug": "vaughan",
+      "name": "Vaughan",
+      "region": "York",
+      "neighborhoods": ["Thornhill", "Woodbridge", "Maple", "Kleinburg", "Concord"],
+      "localContext": "Vaughan is one of our busiest service areas, with a mix of high-end custom homes in Kleinburg, established neighbourhoods in Woodbridge and Thornhill, and newer builds across Maple. Polished concrete and decorative overlays are especially popular in Vaughan custom builds.",
+      "drivetime": "same-day",
+      "isHighlighted": true
+    },
+    {
+      "slug": "markham",
+      "name": "Markham",
+      "region": "York",
+      "neighborhoods": ["Unionville", "Thornhill", "Cornell", "Berczy Village", "Angus Glen"],
+      "localContext": "Markham homes trend toward high-spec finishes and larger-than-average garages and basements — making it one of our most frequent sources of garage epoxy, basement coating, and decorative concrete feature requests.",
+      "drivetime": "same-day",
+      "isHighlighted": true
+    },
+    {
+      "slug": "richmond-hill",
+      "name": "Richmond Hill",
+      "region": "York",
+      "neighborhoods": ["Oak Ridges", "Mill Pond", "Bayview Hill", "Jefferson", "Richvale"],
+      "localContext": "Richmond Hill's established high-end residential stock and growing custom-home market keep demand steady for both garage epoxy and interior stucco accent-wall work. We work regularly in Oak Ridges, Mill Pond, and Bayview Hill.",
+      "drivetime": "same-day",
+      "isHighlighted": false
+    },
+    {
+      "slug": "thornhill",
+      "name": "Thornhill",
+      "region": "York",
+      "neighborhoods": ["Old Thornhill", "Thornhill Woods", "Royal Orchard", "Uplands"],
+      "localContext": "Thornhill straddles Vaughan and Markham and has one of the GTA's densest concentrations of custom and estate homes. Polished concrete, decorative concrete features, and architectural stucco accents are frequent projects here.",
+      "drivetime": "same-day",
+      "isHighlighted": false
+    },
+    {
+      "slug": "oakville",
+      "name": "Oakville",
+      "region": "Halton",
+      "neighborhoods": ["Bronte", "Glen Abbey", "Old Oakville", "Palermo", "Clearview"],
+      "localContext": "Oakville's premium residential market, especially around Glen Abbey and Old Oakville, drives demand for polished concrete floors, high-end garage epoxy, and architectural plaster accent walls. Luxury finishes are the norm here.",
+      "drivetime": "same-day",
+      "isHighlighted": true
+    },
+    {
+      "slug": "burlington",
+      "name": "Burlington",
+      "region": "Halton",
+      "neighborhoods": ["Aldershot", "Alton", "Millcroft", "Downtown Burlington", "Roseland"],
+      "localContext": "Burlington's mix of established waterfront neighbourhoods and newer builds up north creates steady demand for basement coatings, garage epoxy, and interior concrete work. We handle the full Halton corridor from Oakville through to Hamilton's eastern edge.",
+      "drivetime": "same-day",
+      "isHighlighted": false
+    },
+    {
+      "slug": "milton",
+      "name": "Milton",
+      "region": "Halton",
+      "neighborhoods": ["Beaty", "Hawthorne Village", "Scott", "Dempsey", "Timberlea"],
+      "localContext": "Milton's explosive growth in the past decade left a huge inventory of newer homes with large unfinished garage and basement slabs. Garage epoxy flooring and basement floor coatings are among our most-requested Milton services.",
+      "drivetime": "same-day",
+      "isHighlighted": false
+    },
+    {
+      "slug": "caledon",
+      "name": "Caledon",
+      "region": "Peel",
+      "neighborhoods": ["Bolton", "Caledon East", "Mayfield West", "Palgrave", "Alton"],
+      "localContext": "Caledon's larger-lot estate properties and converted farmhouses mean oversized garages, workshops, and basements — all excellent candidates for epoxy and decorative concrete work. Expect same-week scheduling from our GTA crew.",
+      "drivetime": "same-day",
+      "isHighlighted": false
+    },
+    {
+      "slug": "aurora",
+      "name": "Aurora",
+      "region": "York",
+      "neighborhoods": ["Aurora Village", "Hills of St. Andrew", "Bayview Wellington", "Aurora Grove"],
+      "localContext": "Aurora combines high-end custom homes with established mid-century stock, giving us a mix of finishes from mirror-polished concrete to classic garage epoxy. The town's steady growth keeps demand consistent.",
+      "drivetime": "same-day",
+      "isHighlighted": false
+    },
+    {
+      "slug": "newmarket",
+      "name": "Newmarket",
+      "region": "York",
+      "neighborhoods": ["Stonehaven", "Summerhill Estates", "Bristol-London", "Woodland Hill"],
+      "localContext": "Newmarket's residential growth and large-garage estate homes make it a consistent source of garage epoxy and basement coating work. Our team covers the full north York Region corridor on the same schedule.",
+      "drivetime": "same-day",
+      "isHighlighted": false
+    },
+    {
+      "slug": "king-city",
+      "name": "King City",
+      "region": "York",
+      "neighborhoods": ["King City", "Nobleton", "Schomberg", "Kleinburg (shared)"],
+      "localContext": "King Township's estate properties and rural-residential homes often feature oversized garages, workshops, and dedicated hobby spaces — perfect for high-build epoxy flooring and custom decorative concrete work.",
+      "drivetime": "same-day",
+      "isHighlighted": false
+    },
+    {
+      "slug": "stouffville",
+      "name": "Whitchurch-Stouffville",
+      "region": "York",
+      "neighborhoods": ["Stouffville", "Ballantrae", "Musselman's Lake", "Gormley"],
+      "localContext": "Stouffville's rural-residential mix and newer suburban growth give us a steady flow of basement coating and garage epoxy work. Larger-lot properties here often have detached workshops that benefit from a proper finished floor.",
+      "drivetime": "same-day",
+      "isHighlighted": false
+    },
+    {
+      "slug": "pickering",
+      "name": "Pickering",
+      "region": "Durham",
+      "neighborhoods": ["Pickering Village", "Rougemount", "Rosebank", "Highbush", "Amberlea"],
+      "localContext": "Pickering homes along the lakeshore and newer builds inland both benefit from durable interior finishes — epoxy flooring in garages and basements, and polished concrete in modern builds along the water.",
+      "drivetime": "next-day",
+      "isHighlighted": false
+    },
+    {
+      "slug": "ajax",
+      "name": "Ajax",
+      "region": "Durham",
+      "neighborhoods": ["Downtown Ajax", "Southwood", "Westney Heights", "Nottingham"],
+      "localContext": "Ajax's family-oriented residential growth means lots of basements being finished and lots of garages ready for upgrade — our Durham-side service covers Ajax same-week with the same crew that handles the central GTA.",
+      "drivetime": "next-day",
+      "isHighlighted": false
+    },
+    {
+      "slug": "whitby",
+      "name": "Whitby",
+      "region": "Durham",
+      "neighborhoods": ["Downtown Whitby", "Brooklin", "Rolling Acres", "Williamsburg"],
+      "localContext": "Whitby's mix of established downtown character homes and newer Brooklin builds gives us a wide range of substrate conditions. Both garage epoxy and basement coating are regular Whitby requests.",
+      "drivetime": "next-day",
+      "isHighlighted": false
+    },
+    {
+      "slug": "oshawa",
+      "name": "Oshawa",
+      "region": "Durham",
+      "neighborhoods": ["Downtown Oshawa", "North Oshawa", "Taunton", "Lakeview", "Eastdale"],
+      "localContext": "Oshawa's broad housing stock from older downtown homes through newer suburban developments gives us steady work in both basement coating and garage epoxy. Our Durham-area scheduling keeps response times tight.",
+      "drivetime": "next-day",
+      "isHighlighted": false
+    },
+    {
+      "slug": "clarington",
+      "name": "Clarington",
+      "region": "Durham",
+      "neighborhoods": ["Bowmanville", "Courtice", "Newcastle", "Orono"],
+      "localContext": "Clarington's suburban-rural mix across Bowmanville, Courtice, and Newcastle means we see everything from townhouse garages to rural-estate workshops. Garage epoxy and basement coatings are especially common here.",
+      "drivetime": "next-day",
+      "isHighlighted": false
+    }
+  ],
+  "gallery": []
+}

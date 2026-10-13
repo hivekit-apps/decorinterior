@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #faf7f2;
+  color: #1a1a1a;
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Playfair Display', 'Fraunces', Georgia, serif;
+  letter-spacing: -0.01em;
+}
+
+a {
+  color: inherit;
+}
+
+/* Subtle serif accent for display headers */
+.display {
+  font-family: 'Playfair Display', 'Fraunces', Georgia, serif;
+  font-weight: 500;
+  letter-spacing: -0.015em;
+}
+
+/* Primary CTA button */
+.btn-primary {
+  @apply inline-flex items-center justify-center bg-bronze text-white px-6 py-3 rounded-sm font-semibold tracking-wide uppercase text-sm transition hover:bg-bronzeDark;
+}
+
+.btn-outline {
+  @apply inline-flex items-center justify-center border border-charcoal text-charcoal px-6 py-3 rounded-sm font-semibold tracking-wide uppercase text-sm transition hover:bg-charcoal hover:text-cream;
+}
+
+.btn-ghost {
+  @apply inline-flex items-center justify-center text-bronze font-semibold tracking-wide uppercase text-sm transition hover:text-bronzeDark;
+}
+
+.container-tight {
+  @apply mx-auto max-w-5xl px-5 md:px-8;
+}
+
+.container-wide {
+  @apply mx-auto max-w-7xl px-5 md:px-8;
+}
