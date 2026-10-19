@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
+import Image from 'next/image';
 import { getSiteConfig } from '@/lib/config';
 
 export const metadata: Metadata = {
@@ -28,15 +29,39 @@ export default function GalleryPage() {
           <p className="uppercase tracking-widest text-xs text-bronze font-semibold mb-3">Project gallery</p>
           <h1 className="display text-4xl md:text-5xl mb-5">Interior finishes we&apos;ve installed.</h1>
           <p className="text-softgray text-lg leading-relaxed">
-            Project photos are being compiled from recent GTA installs. In the meantime, visit the
+            A selection of recent interior finish installations across the GTA — epoxy, polished concrete,
+            decorative overlays, and wall finishes. For project enquiries, visit the
             <Link href="/services" className="text-bronze underline mx-1">services page</Link>
-            for detailed descriptions of each system we offer.
+            or request a quote directly.
           </p>
         </header>
 
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-5">
           {items.map((item, i) => {
             const service = cfg.services.find((s) => s.slug === item.service);
+            const href = service ? `/services/${service.slug}` : '/services';
+            const name = service?.name || 'Project';
+            if (item.src) {
+              return (
+                <Link
+                  key={i}
+                  href={href}
+                  className="group relative aspect-[4/3] rounded-sm overflow-hidden border border-charcoal/10 block"
+                >
+                  <Image
+                    src={item.src}
+                    alt={item.alt}
+                    fill
+                    sizes="(min-width: 1024px) 32vw, (min-width: 640px) 48vw, 100vw"
+                    className="object-cover transition-transform duration-500 group-hover:scale-[1.03]"
+                    priority={i < 3}
+                  />
+                  <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-charcoal/90 via-charcoal/40 to-transparent p-5">
+                    <div className="display text-xl text-cream">{name}</div>
+                  </div>
+                </Link>
+              );
+            }
             return (
               <div
                 key={i}
@@ -50,7 +75,7 @@ export default function GalleryPage() {
                   <div className="uppercase text-[10px] tracking-widest text-bronze mb-1 font-semibold">
                     Coming soon
                   </div>
-                  <div className="display text-xl">{service?.name || 'Project'}</div>
+                  <div className="display text-xl">{name}</div>
                   <div className="text-xs text-cream/70 mt-1">Photos uploading soon</div>
                 </div>
               </div>

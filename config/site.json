@@ -4,36 +4,36 @@
     "parentName": "Decor Coatings",
     "parentUrl": "https://decorcoatings.ca",
     "tagline": "Interior finishes for GTA homes and commercial spaces",
-    "shortDescription": "Epoxy flooring, polished concrete, decorative overlays, and interior stucco by the Decor Coatings team \u2014 Toronto and across the GTA.",
+    "shortDescription": "Epoxy flooring, polished concrete, decorative overlays, and interior stucco by the Decor Coatings team — Toronto and across the GTA.",
     "siteUrl": "https://decorinterior.ca",
     "phone": "647-994-5455",
     "phoneDisplay": "647-994-5455",
     "email": "info@decorcoatings.ca",
-    "hours": "Mon\u2013Fri 7am\u20137pm \u2022 Saturday by appointment",
-    "basedIn": "Eastern Ontario \u2014 serving the GTA year-round",
-    "heroImage": null,
-    "heroImageAlt": "Interior epoxy flooring in a modern GTA home"
+    "hours": "Mon–Fri 7am–7pm • Saturday by appointment",
+    "basedIn": "Eastern Ontario — serving the GTA year-round",
+    "heroImage": "/photos/business-hero.jpg",
+    "heroImageAlt": "Modern GTA home interior with a seamless polished concrete floor — Decor Interior"
   },
   "categories": [
     {
       "slug": "flooring",
       "name": "Flooring",
-      "description": "Durable, decorative interior floor systems \u2014 epoxy, polished concrete, and more."
+      "description": "Durable, decorative interior floor systems — epoxy, polished concrete, and more."
     },
     {
       "slug": "concrete",
       "name": "Concrete Finishes",
-      "description": "Decorative concrete work \u2014 overlays, staining, resurfacing, and feature elements."
+      "description": "Decorative concrete work — overlays, staining, resurfacing, and feature elements."
     },
     {
       "slug": "specialty",
       "name": "Specialty Finishes",
-      "description": "Specialty interior finishes \u2014 architectural and decorative work."
+      "description": "Specialty interior finishes — architectural and decorative work."
     },
     {
       "slug": "decorative-walls",
       "name": "Decorative Walls",
-      "description": "Architectural wall finishes \u2014 Venetian plaster, microcement, and concrete-look designs for feature walls."
+      "description": "Architectural wall finishes — Venetian plaster, microcement, and concrete-look designs for feature walls."
     }
   ],
   "services": [
@@ -43,13 +43,13 @@
       "shortName": "Residential Epoxy",
       "category": "flooring",
       "tagline": "Seamless, waterproof floors for basements, laundry rooms, workshops, and mudrooms.",
-      "description": "Residential epoxy isn't just for garages. In a basement, laundry room, mudroom, or hobby workshop, an epoxy floor is one of the most practical surfaces you can install \u2014 fully sealed, waterproof at the surface, resistant to spills, and easy to mop. We work directly with homeowners to choose colour, texture, and flake pattern that fits the space: a solid matte charcoal for a modern basement rec room, a warm tan flake for a mudroom that'll see muddy boots, or a metallic marbled finish for a home gym that doubles as entertaining space. Each room gets the full prep treatment \u2014 moisture test, mechanical grind, crack repair \u2014 because the biggest difference between a floor that lasts fifteen years and a floor that peels in two is the prep underneath. We fit timelines around your family: most residential rooms are drive-on done in 48 hours and back in service by the weekend.",
+      "description": "Residential epoxy isn't just for garages. In a basement, laundry room, mudroom, or hobby workshop, an epoxy floor is one of the most practical surfaces you can install — fully sealed, waterproof at the surface, resistant to spills, and easy to mop. We work directly with homeowners to choose colour, texture, and flake pattern that fits the space: a solid matte charcoal for a modern basement rec room, a warm tan flake for a mudroom that'll see muddy boots, or a metallic marbled finish for a home gym that doubles as entertaining space. Each room gets the full prep treatment — moisture test, mechanical grind, crack repair — because the biggest difference between a floor that lasts fifteen years and a floor that peels in two is the prep underneath. We fit timelines around your family: most residential rooms are drive-on done in 48 hours and back in service by the weekend.",
       "features": [
         "Full moisture testing before scheduling",
         "Mechanical surface prep (no shortcuts)",
         "Choice of solid colour, flake, or metallic finishes",
         "Matte, satin, or high-gloss topcoat",
-        "Easy-to-clean, seamless surface \u2014 no grout lines",
+        "Easy-to-clean, seamless surface — no grout lines",
         "Waterproof at the surface (ideal for basements)",
         "Low-odour installation options",
         "Pet-friendly after cure"
@@ -73,19 +73,19 @@
       "faqs": [
         {
           "q": "Does it feel cold like bare concrete?",
-          "a": "Yes \u2014 the surface temperature matches the concrete beneath. For basements, we often recommend pairing with area rugs or a radiant floor system if you're starting from scratch."
+          "a": "Yes — the surface temperature matches the concrete beneath. For basements, we often recommend pairing with area rugs or a radiant floor system if you're starting from scratch."
         },
         {
           "q": "How disruptive is the install?",
-          "a": "The room needs to be emptied for 48\u201372 hours. We bring HEPA-filtered grinders so dust stays contained, and low-odour chemistry options exist for rooms adjacent to living spaces."
+          "a": "The room needs to be emptied for 48–72 hours. We bring HEPA-filtered grinders so dust stays contained, and low-odour chemistry options exist for rooms adjacent to living spaces."
         },
         {
           "q": "What about moisture pushing up from below?",
           "a": "This is the biggest reason basements fail. We always test slab moisture first. If vapour emission is high, we spec a moisture-tolerant primer specifically designed to tolerate hydrostatic pressure from below."
         }
       ],
-      "photo": null,
-      "photoAlt": "Residential epoxy floor in a finished basement"
+      "photo": "/photos/residential-epoxy-flooring.jpg",
+      "photoAlt": "Residential epoxy flooring installed in a modern GTA home — Decor Interior"
     },
     {
       "slug": "commercial-epoxy-flooring",
@@ -93,7 +93,7 @@
       "shortName": "Commercial Epoxy",
       "category": "flooring",
       "tagline": "High-traffic floors for showrooms, warehouses, retail, gyms, and auto shops.",
-      "description": "Commercial floors have a different job than residential ones. They need to hold up to forklifts, pallet jacks, rolling retail displays, dropped weights, and the odd oil leak \u2014 all while looking presentable to customers walking in the door. Our commercial epoxy and polyaspartic systems are specified based on the actual use: a car showroom needs reflectivity and chemical resistance; a dumbbell gym needs impact resistance and sound dampening; a warehouse needs abrasion resistance and clear traffic markings. We handle everything from a 1,500 sq ft retail showroom to multi-tenant industrial facilities, with scheduling that works around your operation \u2014 overnight pours, weekend installs, and phased sections so you never have to close completely. Line striping, logos, and safety markings are integrated into the system where needed.",
+      "description": "Commercial floors have a different job than residential ones. They need to hold up to forklifts, pallet jacks, rolling retail displays, dropped weights, and the odd oil leak — all while looking presentable to customers walking in the door. Our commercial epoxy and polyaspartic systems are specified based on the actual use: a car showroom needs reflectivity and chemical resistance; a dumbbell gym needs impact resistance and sound dampening; a warehouse needs abrasion resistance and clear traffic markings. We handle everything from a 1,500 sq ft retail showroom to multi-tenant industrial facilities, with scheduling that works around your operation — overnight pours, weekend installs, and phased sections so you never have to close completely. Line striping, logos, and safety markings are integrated into the system where needed.",
       "features": [
         "Specification matched to actual commercial use case",
         "Overnight and weekend install options to minimize downtime",
@@ -126,19 +126,19 @@
       "faqs": [
         {
           "q": "Can you work around our hours?",
-          "a": "Yes. We routinely schedule overnight pours, weekend installs, and phased sections. The limitation is cure time, not labour hours \u2014 we plan around that."
+          "a": "Yes. We routinely schedule overnight pours, weekend installs, and phased sections. The limitation is cure time, not labour hours — we plan around that."
         },
         {
           "q": "Do you provide warranties?",
-          "a": "Every commercial job comes with a written performance warranty specific to the system installed. Typical range: 5\u201310 years depending on the specification."
+          "a": "Every commercial job comes with a written performance warranty specific to the system installed. Typical range: 5–10 years depending on the specification."
         },
         {
           "q": "What about health-code zones like kitchens?",
           "a": "We spec specific slip-resistant, chemical-tolerant systems for commercial kitchens, and we're familiar with the local health-unit requirements across the GTA."
         }
       ],
-      "photo": null,
-      "photoAlt": "Commercial epoxy floor in a GTA showroom"
+      "photo": "/photos/commercial-epoxy-flooring.jpg",
+      "photoAlt": "Commercial epoxy flooring in a GTA commercial space — Decor Interior"
     },
     {
       "slug": "polished-concrete-floors",
@@ -146,16 +146,16 @@
       "shortName": "Polished Concrete",
       "category": "flooring",
       "tagline": "Low-maintenance architectural flooring with a seamless, modern finish.",
-      "description": "Polished concrete isn't a coating \u2014 it's a mechanical refinement of the concrete slab itself. Using progressively finer diamond-impregnated pads, we grind, hone, and polish the existing floor until it reaches the gloss level you want: a soft honed matte, a satin sheen, or a mirror polish that reflects the ceiling. Along the way, we densify the surface with lithium silicate, which fills microscopic pores and makes the final floor significantly harder and more stain-resistant than raw concrete. The result is a floor that lasts the life of the building, requires only occasional buffing to maintain, and has zero volatile chemistry \u2014 nothing to off-gas, nothing to peel. We polish floors in modern homes, retail spaces, galleries, offices, and light-industrial spaces across the GTA. The look pairs beautifully with modern or minimalist architecture, and the operating cost over fifteen years is lower than practically any other flooring option.",
+      "description": "Polished concrete isn't a coating — it's a mechanical refinement of the concrete slab itself. Using progressively finer diamond-impregnated pads, we grind, hone, and polish the existing floor until it reaches the gloss level you want: a soft honed matte, a satin sheen, or a mirror polish that reflects the ceiling. Along the way, we densify the surface with lithium silicate, which fills microscopic pores and makes the final floor significantly harder and more stain-resistant than raw concrete. The result is a floor that lasts the life of the building, requires only occasional buffing to maintain, and has zero volatile chemistry — nothing to off-gas, nothing to peel. We polish floors in modern homes, retail spaces, galleries, offices, and light-industrial spaces across the GTA. The look pairs beautifully with modern or minimalist architecture, and the operating cost over fifteen years is lower than practically any other flooring option.",
       "features": [
-        "Mechanical polish \u2014 no coatings, no VOCs",
+        "Mechanical polish — no coatings, no VOCs",
         "Lithium silicate densification for hardness and stain resistance",
         "Choice of matte, satin, semi-gloss, or mirror finish",
         "Three aggregate exposure levels (cream, salt-and-pepper, full aggregate)",
         "Optional dye for colour tint",
-        "Lifetime floor \u2014 refresh instead of replace",
+        "Lifetime floor — refresh instead of replace",
         "Minimal ongoing maintenance (dust-mop + occasional buff)",
-        "Zero off-gassing \u2014 safe for homes and sensitive spaces"
+        "Zero off-gassing — safe for homes and sensitive spaces"
       ],
       "process": [
         "Floor assessment: slab condition, aggregate size, existing coatings",
@@ -163,7 +163,7 @@
         "Coarse grinding to open the surface and expose aggregate",
         "Crack and spall repair with colour-matched polymer",
         "Densifier application and penetration cure",
-        "Progressive honing: 100 \u2192 200 \u2192 400 \u2192 800 grit",
+        "Progressive honing: 100 → 200 → 400 → 800 grit",
         "Final polish to desired gloss (up to 3000 grit)",
         "Guard application to protect against stains and daily wear"
       ],
@@ -186,23 +186,23 @@
         },
         {
           "q": "What about radiant heating?",
-          "a": "Polished concrete is excellent for radiant floors \u2014 the concrete mass stores and distributes heat beautifully, and there's no coating layer to insulate the surface."
+          "a": "Polished concrete is excellent for radiant floors — the concrete mass stores and distributes heat beautifully, and there's no coating layer to insulate the surface."
         }
       ],
-      "photo": null,
-      "photoAlt": "Polished concrete floor in a modern Toronto home"
+      "photo": "/photos/polished-concrete-floors.jpg",
+      "photoAlt": "Polished concrete floor finish in a modern interior — Decor Interior"
     },
     {
       "slug": "concrete-staining",
       "name": "Concrete Staining",
       "shortName": "Concrete Staining",
       "category": "concrete",
-      "tagline": "Rich, variegated colour applied directly to interior concrete \u2014 no two floors identical.",
-      "description": "Concrete staining is how you take a plain grey slab and turn it into something that looks like aged leather, weathered stone, or hand-rubbed wood. We work with both acid-based reactive stains, which chemically bond with the concrete and produce rich, variegated earthy tones, and water-based dyes, which offer a wider colour range and more predictable application. The look depends heavily on the slab underneath \u2014 curing age, finish technique, embedded aggregate \u2014 which is why no two stained floors are exactly alike. That variability is the entire appeal. We seal every stained floor with a penetrating sealer, a wax, or a clear topcoat depending on use and desired sheen. The result is a one-of-a-kind interior floor with the character of natural stone and the price point of refinishing what's already there.",
+      "tagline": "Rich, variegated colour applied directly to interior concrete — no two floors identical.",
+      "description": "Concrete staining is how you take a plain grey slab and turn it into something that looks like aged leather, weathered stone, or hand-rubbed wood. We work with both acid-based reactive stains, which chemically bond with the concrete and produce rich, variegated earthy tones, and water-based dyes, which offer a wider colour range and more predictable application. The look depends heavily on the slab underneath — curing age, finish technique, embedded aggregate — which is why no two stained floors are exactly alike. That variability is the entire appeal. We seal every stained floor with a penetrating sealer, a wax, or a clear topcoat depending on use and desired sheen. The result is a one-of-a-kind interior floor with the character of natural stone and the price point of refinishing what's already there.",
       "features": [
         "Choice of acid stain (reactive, earthy) or water-based dye (broad palette)",
         "Multi-colour application for depth and movement",
-        "Translucent \u2014 slab character becomes part of the design",
+        "Translucent — slab character becomes part of the design",
         "Sealed with penetrating sealer, wax, or clear topcoat",
         "Compatible with scoring, saw-cut patterns, and inlays",
         "Low-VOC options available",
@@ -228,7 +228,7 @@
       "faqs": [
         {
           "q": "How do I know what colour it'll end up?",
-          "a": "We always do a test patch \u2014 usually a 2-foot square in a corner \u2014 so you can see how your specific slab reacts before we commit to the full floor. The character of each slab shapes the final result."
+          "a": "We always do a test patch — usually a 2-foot square in a corner — so you can see how your specific slab reacts before we commit to the full floor. The character of each slab shapes the final result."
         },
         {
           "q": "Will it fade?",
@@ -239,8 +239,8 @@
           "a": "This is why we do test patches. If you don't like how your slab is reacting, we switch to a water-based dye or a different approach before applying to the full area."
         }
       ],
-      "photo": null,
-      "photoAlt": "Acid-stained concrete floor in a GTA home"
+      "photo": "/photos/concrete-staining.jpg",
+      "photoAlt": "Stained decorative concrete flooring — Decor Interior Toronto"
     },
     {
       "slug": "decorative-concrete-overlays",
@@ -248,9 +248,9 @@
       "shortName": "Concrete Overlays",
       "category": "concrete",
       "tagline": "Resurface worn concrete with a stamped, troweled, or spray-textured architectural finish.",
-      "description": "Decorative overlays are thin, polymer-modified cementitious coatings that bond to existing concrete and give you a fresh, designed surface \u2014 stamped like flagstone, troweled smooth, broom-finished, or spray-textured. Overlays are the right call when the slab is structurally sound but the surface is tired: pitted, stained beyond staining, poorly finished originally, or just dated. Instead of ripping out and re-pouring (which is expensive and disruptive), we bond a 1/8-to-1/2-inch overlay directly to what's there. The design options are broad: hand-cut flagstone patterns, European tile looks, slate textures, broom finishes, or clean modern trowel marks. Overlays can be colour-integrated or stained afterward, and we seal every overlay for durability. Interior overlays last decades indoors because they're protected from freeze-thaw.",
+      "description": "Decorative overlays are thin, polymer-modified cementitious coatings that bond to existing concrete and give you a fresh, designed surface — stamped like flagstone, troweled smooth, broom-finished, or spray-textured. Overlays are the right call when the slab is structurally sound but the surface is tired: pitted, stained beyond staining, poorly finished originally, or just dated. Instead of ripping out and re-pouring (which is expensive and disruptive), we bond a 1/8-to-1/2-inch overlay directly to what's there. The design options are broad: hand-cut flagstone patterns, European tile looks, slate textures, broom finishes, or clean modern trowel marks. Overlays can be colour-integrated or stained afterward, and we seal every overlay for durability. Interior overlays last decades indoors because they're protected from freeze-thaw.",
       "features": [
-        "Bonds to existing concrete \u2014 no demo required",
+        "Bonds to existing concrete — no demo required",
         "1/8-inch to 1/2-inch build thickness",
         "Stampable, trowelable, spray-textureable",
         "Pattern options: flagstone, slate, tile, broom, modern trowel",
@@ -289,16 +289,16 @@
           "a": "An overlay bonds to the slab, so if the slab moves significantly, the overlay will follow. For existing cracks, we route and fill with flexible polyurethane before overlay, which minimizes crack telegraphing."
         }
       ],
-      "photo": null,
-      "photoAlt": "Stamped concrete overlay in an interior entryway"
+      "photo": "/photos/decorative-concrete-overlays.jpg",
+      "photoAlt": "Decorative concrete overlay surface finish — Decor Interior GTA"
     },
     {
       "slug": "basement-floor-coating",
       "name": "Basement Floor Coating",
       "shortName": "Basement Coating",
       "category": "flooring",
-      "tagline": "Finish your basement floor properly \u2014 sealed, decorative, and ready for everyday use.",
-      "description": "A basement floor coating is often the most impactful upgrade you can do in a finished basement. Below-grade concrete is prone to moisture migration from below and condensation from above, and most finishing systems (vinyl plank, carpet, laminate) handle this poorly over time. A properly specified coating \u2014 epoxy, polyaspartic, or a hybrid system \u2014 is permanently bonded to the slab, waterproof at the surface, and will outlast practically any other flooring choice in that space. We moisture-test every basement slab before scheduling because moisture is the single biggest predictor of basement coating failure, and we match the primer specifically to the moisture vapour emission level we measure. The finish can be solid, decorative flake, or metallic depending on the room's purpose: subdued charcoal for a theatre room, warm tan flake for a kids' play area, metallic marbled teal for a home office with character. We've coated basement floors across every neighbourhood in the GTA, from century-old Toronto homes to new-build suburban basements.",
+      "tagline": "Finish your basement floor properly — sealed, decorative, and ready for everyday use.",
+      "description": "A basement floor coating is often the most impactful upgrade you can do in a finished basement. Below-grade concrete is prone to moisture migration from below and condensation from above, and most finishing systems (vinyl plank, carpet, laminate) handle this poorly over time. A properly specified coating — epoxy, polyaspartic, or a hybrid system — is permanently bonded to the slab, waterproof at the surface, and will outlast practically any other flooring choice in that space. We moisture-test every basement slab before scheduling because moisture is the single biggest predictor of basement coating failure, and we match the primer specifically to the moisture vapour emission level we measure. The finish can be solid, decorative flake, or metallic depending on the room's purpose: subdued charcoal for a theatre room, warm tan flake for a kids' play area, metallic marbled teal for a home office with character. We've coated basement floors across every neighbourhood in the GTA, from century-old Toronto homes to new-build suburban basements.",
       "features": [
         "Comprehensive moisture testing before quote",
         "Moisture-tolerant primer when vapour emission is high",
@@ -306,7 +306,7 @@
         "Choice of solid, flake, or metallic finish",
         "Waterproof at the surface",
         "Easier to clean than any other basement flooring",
-        "Allergy-friendly \u2014 no carpet to trap dust or dander",
+        "Allergy-friendly — no carpet to trap dust or dander",
         "Won't warp, swell, or delaminate from humidity"
       ],
       "process": [
@@ -339,8 +339,8 @@
           "a": "Yes, same as any concrete floor. For basements where this matters, pair with area rugs over the main zones. We can also coordinate with heated-floor installers if you're starting from scratch."
         }
       ],
-      "photo": null,
-      "photoAlt": "Finished basement floor coating in a Toronto home"
+      "photo": "/photos/basement-floor-coating.jpg",
+      "photoAlt": "Finished basement floor coating in a GTA home — Decor Interior"
     },
     {
       "slug": "interior-concrete-resurfacing",
@@ -348,7 +348,7 @@
       "shortName": "Concrete Resurfacing",
       "category": "concrete",
       "tagline": "Fix pitted, cracked, or worn interior concrete without demo and re-pour.",
-      "description": "Interior concrete resurfacing is the practical middle ground between living with a tired slab and tearing it out. If your interior concrete is structurally sound but the surface is pitted, spalled, cracked, or just unattractive, resurfacing bonds a fresh cementitious or polymer layer onto what's there. The build is thinner than a full overlay \u2014 typically 1/16 to 1/8 of an inch \u2014 and is designed to restore the surface rather than create a new look. From there, the resurfaced slab can accept staining, polishing, or a decorative coating, giving you a full menu of final finishes. Resurfacing is especially useful for garage conversions, retail renovations, and basement upgrades where the original slab wasn't finished with a final use in mind. It's dramatically cheaper and less disruptive than demo and re-pour, and in most cases the finished floor is indistinguishable from new concrete.",
+      "description": "Interior concrete resurfacing is the practical middle ground between living with a tired slab and tearing it out. If your interior concrete is structurally sound but the surface is pitted, spalled, cracked, or just unattractive, resurfacing bonds a fresh cementitious or polymer layer onto what's there. The build is thinner than a full overlay — typically 1/16 to 1/8 of an inch — and is designed to restore the surface rather than create a new look. From there, the resurfaced slab can accept staining, polishing, or a decorative coating, giving you a full menu of final finishes. Resurfacing is especially useful for garage conversions, retail renovations, and basement upgrades where the original slab wasn't finished with a final use in mind. It's dramatically cheaper and less disruptive than demo and re-pour, and in most cases the finished floor is indistinguishable from new concrete.",
       "features": [
         "Thin-build resurfacing (1/16 to 1/8 inch)",
         "Bonds to structurally sound existing concrete",
@@ -378,19 +378,19 @@
       "faqs": [
         {
           "q": "Can I stain the resurfaced floor?",
-          "a": "Absolutely \u2014 this is one of the most common sequences. Resurface first to level the slab, then stain or dye for colour, then seal. Great outcome, cheap compared to new concrete."
+          "a": "Absolutely — this is one of the most common sequences. Resurface first to level the slab, then stain or dye for colour, then seal. Great outcome, cheap compared to new concrete."
         },
         {
           "q": "How do I know if my slab is sound enough?",
-          "a": "We assess at the first visit \u2014 tap-test, visual inspection, and if there's doubt, a core cut. Resurfacing requires a stable substrate; if the slab is spalling or lifting, we'll flag that."
+          "a": "We assess at the first visit — tap-test, visual inspection, and if there's doubt, a core cut. Resurfacing requires a stable substrate; if the slab is spalling or lifting, we'll flag that."
         },
         {
           "q": "Is this the same as an overlay?",
           "a": "Related but different. Resurfacing restores the existing surface at a thin build. Overlays build a new decorative surface on top, often thicker and with pattern work. We'll recommend which fits your situation."
         }
       ],
-      "photo": null,
-      "photoAlt": "Interior concrete floor after resurfacing"
+      "photo": "/photos/interior-concrete-resurfacing.jpg",
+      "photoAlt": "Interior concrete resurfacing finish — Decor Interior Toronto"
     },
     {
       "slug": "decorative-concrete-features",
@@ -398,7 +398,7 @@
       "shortName": "Concrete Features",
       "category": "concrete",
       "tagline": "Custom countertops, feature walls, hearths, and architectural concrete elements.",
-      "description": "Concrete isn't just a floor \u2014 it's an architectural material, and it works beautifully on vertical surfaces, countertops, fireplace surrounds, and furniture-grade feature pieces. Our decorative concrete work covers kitchen and bath countertops with hand-honed edges, fireplace hearths and surrounds that cast in place or install as prefabricated panels, feature accent walls with hand-troweled texture, and custom pieces like floating benches or integrated sinks. Each piece is designed with the client \u2014 colour, texture, aggregate exposure, edge detail \u2014 and finished to furniture-grade standards. We work in both cast-in-place and prefabricated-panel approaches depending on access, weight, and timeline. The look fits modern, industrial, and transitional architecture equally well.",
+      "description": "Concrete isn't just a floor — it's an architectural material, and it works beautifully on vertical surfaces, countertops, fireplace surrounds, and furniture-grade feature pieces. Our decorative concrete work covers kitchen and bath countertops with hand-honed edges, fireplace hearths and surrounds that cast in place or install as prefabricated panels, feature accent walls with hand-troweled texture, and custom pieces like floating benches or integrated sinks. Each piece is designed with the client — colour, texture, aggregate exposure, edge detail — and finished to furniture-grade standards. We work in both cast-in-place and prefabricated-panel approaches depending on access, weight, and timeline. The look fits modern, industrial, and transitional architecture equally well.",
       "features": [
         "Custom-designed per project",
         "Cast-in-place or prefabricated panel installation",
@@ -429,7 +429,7 @@
       "faqs": [
         {
           "q": "How much do custom concrete countertops cost?",
-          "a": "Price varies with size, edge detail, inlays, and whether we cast on-site or in the shop. We quote per piece after a site measure \u2014 reach out for a specific estimate."
+          "a": "Price varies with size, edge detail, inlays, and whether we cast on-site or in the shop. We quote per piece after a site measure — reach out for a specific estimate."
         },
         {
           "q": "Will it stain from wine or oil?",
@@ -437,11 +437,11 @@
         },
         {
           "q": "Can you match a specific colour?",
-          "a": "Yes \u2014 we create sample casts for client approval before fabricating the final piece. Expect a round of samples to dial in the exact colour and texture."
+          "a": "Yes — we create sample casts for client approval before fabricating the final piece. Expect a round of samples to dial in the exact colour and texture."
         }
       ],
-      "photo": null,
-      "photoAlt": "Custom concrete countertop in a GTA kitchen"
+      "photo": "/photos/decorative-concrete-features.jpg",
+      "photoAlt": "Decorative concrete architectural features — Decor Interior GTA"
     },
     {
       "slug": "interior-stucco-accent-walls",
@@ -449,13 +449,13 @@
       "shortName": "Interior Stucco",
       "category": "specialty",
       "tagline": "Venetian plaster, troweled stucco, and architectural accent-wall finishes.",
-      "description": "Interior stucco and Venetian plaster are architectural finishes that bring depth, texture, and the richness of hand-trowel work to walls, ceilings, and feature zones. The look ranges from the glassy polished sheen of classical Venetian plaster to the matte troweled texture of modern limewash and the deep dimensional feel of multi-layered Marmorino. Each system is applied in multiple thin coats, worked while plastic, and burnished or textured by hand \u2014 which is why no two walls look exactly alike and why the result reads as hand-crafted rather than factory-produced. We handle feature accent walls, entire rooms, foyers, hospitality lobbies, and feature ceilings. The parent company Decor Coatings has done this work for exterior facades for years; now the same team brings it indoors for GTA homes and commercial projects.",
+      "description": "Interior stucco and Venetian plaster are architectural finishes that bring depth, texture, and the richness of hand-trowel work to walls, ceilings, and feature zones. The look ranges from the glassy polished sheen of classical Venetian plaster to the matte troweled texture of modern limewash and the deep dimensional feel of multi-layered Marmorino. Each system is applied in multiple thin coats, worked while plastic, and burnished or textured by hand — which is why no two walls look exactly alike and why the result reads as hand-crafted rather than factory-produced. We handle feature accent walls, entire rooms, foyers, hospitality lobbies, and feature ceilings. The parent company Decor Coatings has done this work for exterior facades for years; now the same team brings it indoors for GTA homes and commercial projects.",
       "features": [
         "Multiple finish systems: Venetian, Marmorino, limewash, troweled stucco",
         "Hand-applied by experienced plasterers",
         "Depth and movement that paint cannot replicate",
         "Choice of matte, satin, or burnished sheen",
-        "Integral colour \u2014 no touch-ups needed",
+        "Integral colour — no touch-ups needed",
         "Breathable, mineral-based finishes",
         "Compatible with modern, traditional, or transitional interiors",
         "Can be applied over drywall, plaster, or existing paint"
@@ -480,40 +480,40 @@
       "faqs": [
         {
           "q": "Is this the same as painted texture?",
-          "a": "No. Textured paint sits on the surface; plaster is a mineral finish applied in multiple thin coats and worked by hand. The depth, sheen, and feel are fundamentally different \u2014 closer to stone than to paint."
+          "a": "No. Textured paint sits on the surface; plaster is a mineral finish applied in multiple thin coats and worked by hand. The depth, sheen, and feel are fundamentally different — closer to stone than to paint."
         },
         {
           "q": "How long does a wall take?",
-          "a": "A typical accent wall takes 2\u20133 days: prep and first coat on day one, second coat and burnishing on day two, final touch-up and sealing on day three."
+          "a": "A typical accent wall takes 2–3 days: prep and first coat on day one, second coat and burnishing on day two, final touch-up and sealing on day three."
         },
         {
           "q": "Can you match a specific look?",
-          "a": "Yes \u2014 share a photo or sample of what you're after, and we'll create a sample board on your actual wall before committing to the full project. This is how we dial in the exact colour and texture."
+          "a": "Yes — share a photo or sample of what you're after, and we'll create a sample board on your actual wall before committing to the full project. This is how we dial in the exact colour and texture."
         }
       ],
-      "photo": null,
-      "photoAlt": "Venetian plaster accent wall in a GTA home"
+      "photo": "/photos/interior-stucco-accent-walls.jpg",
+      "photoAlt": "Interior stucco accent wall finish — Decor Interior Toronto"
     },
     {
       "slug": "decorative-wall-finishes",
       "name": "Decorative Wall Finishes",
       "shortName": "Decorative Wall Finishes",
       "category": "decorative-walls",
-      "tagline": "Hand-applied interior wall finishes \u2014 texture, movement, and depth beyond what paint can deliver.",
-      "description": "A paint colour is one dimension. A decorative wall finish is three. Our applicators use trowel, sponge, and float techniques to build up thin, layered coats that read differently depending on light, angle, and time of day \u2014 a soft limewashed warmth in a sunlit dining room, a brushed metallic sheen in a boutique retail fitting zone, or a honed-stone matte in a modern primary bedroom. We work with hand-mixed mineral finishes, modified plasters, metallic glazes, and specialty acrylics, and we match the technique to the room's architecture and the look you want. Most finishes install over a prepared drywall or existing paint substrate \u2014 no demolition. Expect 2\u20134 days per room depending on finish complexity, and dust is minimal because the work is wet-trowelled, not sanded.",
+      "tagline": "Hand-applied interior wall finishes — texture, movement, and depth beyond what paint can deliver.",
+      "description": "A paint colour is one dimension. A decorative wall finish is three. Our applicators use trowel, sponge, and float techniques to build up thin, layered coats that read differently depending on light, angle, and time of day — a soft limewashed warmth in a sunlit dining room, a brushed metallic sheen in a boutique retail fitting zone, or a honed-stone matte in a modern primary bedroom. We work with hand-mixed mineral finishes, modified plasters, metallic glazes, and specialty acrylics, and we match the technique to the room's architecture and the look you want. Most finishes install over a prepared drywall or existing paint substrate — no demolition. Expect 2–4 days per room depending on finish complexity, and dust is minimal because the work is wet-trowelled, not sanded.",
       "features": [
         "Mineral, lime, and acrylic finish systems",
         "Metallic, matte, honed, and sheen effects",
         "Custom tint-matching to interior design palette",
-        "Applies over prepared drywall or paint \u2014 no demo",
+        "Applies over prepared drywall or paint — no demo",
         "Low-dust, wet-application process",
-        "Washable, durable surface \u2014 more resilient than paint"
+        "Washable, durable surface — more resilient than paint"
       ],
       "process": [
         "On-site design consultation and sample board",
         "Substrate inspection and prime (if needed)",
-        "First coat \u2014 hand-trowelled base layer",
-        "Second and third coats \u2014 build pattern and depth",
+        "First coat — hand-trowelled base layer",
+        "Second and third coats — build pattern and depth",
         "Burnish or wax for final sheen (where applicable)",
         "Walkthrough and touch-up pass"
       ],
@@ -527,7 +527,7 @@
       "faqs": [
         {
           "q": "How is this different from textured paint?",
-          "a": "Textured paint is a single coat with a stipple or roll pattern baked in. A decorative wall finish is multiple hand-trowelled layers, each one reacting to the previous \u2014 the depth is physical, not optical. The result reads as architectural, not decorative."
+          "a": "Textured paint is a single coat with a stipple or roll pattern baked in. A decorative wall finish is multiple hand-trowelled layers, each one reacting to the previous — the depth is physical, not optical. The result reads as architectural, not decorative."
         },
         {
           "q": "Can you match a reference photo?",
@@ -538,16 +538,16 @@
           "a": "Most finishes are wipeable with a damp microfibre once fully cured (7 days). Lime and mineral finishes are the most tolerant of moisture; waxed metallics should be dusted rather than wet-cleaned."
         }
       ],
-      "photo": null,
-      "photoAlt": "Hand-trowelled decorative wall finish in a residential dining room"
+      "photo": "/photos/decorative-wall-finishes.jpg",
+      "photoAlt": "Decorative interior wall finish — Decor Interior GTA"
     },
     {
       "slug": "architectural-wall-designs",
       "name": "Architectural Wall Designs",
       "shortName": "Architectural Wall Designs",
       "category": "decorative-walls",
-      "tagline": "Custom wall compositions \u2014 panels, reveals, textures, and finishes designed as architectural features.",
-      "description": "An architectural wall is a composed surface \u2014 not just a flat colour, not just a texture, but a planned composition of panels, reveals, insets, and finishes that reads as part of the building, not applied to it. We work with homeowners, interior designers, and architects to translate elevations into installable systems: fluted plaster panels around a fireplace, large-format concrete-look slabs forming an entry statement, raised reveals and shadow lines in a corridor, or a feature wall combining microcement with a brass inlay. The finish is only part of it \u2014 the layout, the reveal spacing, the way light grazes across the surface \u2014 these are the details that make the wall architectural rather than decorative. Timelines vary with complexity: a single-wall feature is typically 3\u20135 days; a multi-wall room design can take 7\u201310 days.",
+      "tagline": "Custom wall compositions — panels, reveals, textures, and finishes designed as architectural features.",
+      "description": "An architectural wall is a composed surface — not just a flat colour, not just a texture, but a planned composition of panels, reveals, insets, and finishes that reads as part of the building, not applied to it. We work with homeowners, interior designers, and architects to translate elevations into installable systems: fluted plaster panels around a fireplace, large-format concrete-look slabs forming an entry statement, raised reveals and shadow lines in a corridor, or a feature wall combining microcement with a brass inlay. The finish is only part of it — the layout, the reveal spacing, the way light grazes across the surface — these are the details that make the wall architectural rather than decorative. Timelines vary with complexity: a single-wall feature is typically 3–5 days; a multi-wall room design can take 7–10 days.",
       "features": [
         "Collaboration with your architect or designer (or we design in-house)",
         "Panel layouts, reveals, flutes, and inset work",
@@ -559,10 +559,10 @@
       "process": [
         "Design brief, elevation review, site measure",
         "Layout drawing with reveal spacing and finish zones",
-        "Substrate prep \u2014 level, prime, and set reference lines",
+        "Substrate prep — level, prime, and set reference lines",
         "Install panel / reveal framework (where applicable)",
         "Apply finish systems in planned sequence",
-        "Final detail pass \u2014 edges, reveals, corners"
+        "Final detail pass — edges, reveals, corners"
       ],
       "idealFor": [
         "Entry walls and feature statement rooms",
@@ -578,34 +578,34 @@
         },
         {
           "q": "Can the design be modified during install?",
-          "a": "Within reason, yes \u2014 reveal spacing, finish choice, and sheen can usually be tuned during the first few days. Panel layouts and substrate framing are locked once installed."
+          "a": "Within reason, yes — reveal spacing, finish choice, and sheen can usually be tuned during the first few days. Panel layouts and substrate framing are locked once installed."
         },
         {
           "q": "How does this hold up over time?",
           "a": "Properly specified and installed, decades. The failure modes are substrate movement (fixed with isolation joints), moisture ingress at edges (fixed with sealing), and impact damage (easily patched by matching finish)."
         }
       ],
-      "photo": null,
-      "photoAlt": "Architectural fluted plaster feature wall with vertical reveals"
+      "photo": "/photos/architectural-wall-designs.jpg",
+      "photoAlt": "Architectural wall design with custom panels and finishes — Decor Interior"
     },
     {
       "slug": "venetian-plaster",
       "name": "Venetian Plaster",
       "shortName": "Venetian Plaster",
       "category": "decorative-walls",
-      "tagline": "Authentic lime-and-marble-dust plaster \u2014 hand-burnished to a stone-like finish.",
-      "description": "True Venetian plaster is a lime-based plaster carrying crushed marble dust, applied in thin layers with a steel trowel and then burnished until the surface reads as honed stone. It's one of the oldest decorative wall systems \u2014 Roman villas used it, Palladio spec'd it, and it still has no modern substitute for the look. We work with traditional Italian materials (grassello, marmorino, stucco veneziano) and apply with authentic technique: three to five coats, each one skimmed thinner than the last, finished with a hard burnish and optional wax seal. The result is a surface with real depth \u2014 light pools in some spots and glides across others, the way it does on polished stone. Perfect for walls where you want permanence and gravitas, not just colour. Typically 3\u20135 days per room including prep.",
+      "tagline": "Authentic lime-and-marble-dust plaster — hand-burnished to a stone-like finish.",
+      "description": "True Venetian plaster is a lime-based plaster carrying crushed marble dust, applied in thin layers with a steel trowel and then burnished until the surface reads as honed stone. It's one of the oldest decorative wall systems — Roman villas used it, Palladio spec'd it, and it still has no modern substitute for the look. We work with traditional Italian materials (grassello, marmorino, stucco veneziano) and apply with authentic technique: three to five coats, each one skimmed thinner than the last, finished with a hard burnish and optional wax seal. The result is a surface with real depth — light pools in some spots and glides across others, the way it does on polished stone. Perfect for walls where you want permanence and gravitas, not just colour. Typically 3–5 days per room including prep.",
       "features": [
         "Authentic lime + marble-dust materials",
         "Marmorino (matte stone), stucco veneziano (polished), grassello (deep burnish)",
-        "Hand-trowelled, hand-burnished \u2014 no shortcuts",
+        "Hand-trowelled, hand-burnished — no shortcuts",
         "Optional natural wax seal for extra depth",
         "Breathable, mould-resistant surface",
         "Patchable and tintable in future (ages gracefully)"
       ],
       "process": [
         "Finish and sheen consultation (choose marmorino / veneziano / grassello)",
-        "Substrate prep \u2014 level drywall or existing plaster",
+        "Substrate prep — level drywall or existing plaster",
         "Primer coat tinted to base colour",
         "Three to five plaster coats, each thinner than the last",
         "Burnish with steel trowel to open or close the surface",
@@ -621,40 +621,40 @@
       "faqs": [
         {
           "q": "Does Venetian plaster work in bathrooms?",
-          "a": "Yes \u2014 it's one of the oldest moisture-tolerant wall systems. Grassello with a wax seal is routinely spec'd for bathrooms, including feature walls near (not inside) showers."
+          "a": "Yes — it's one of the oldest moisture-tolerant wall systems. Grassello with a wax seal is routinely spec'd for bathrooms, including feature walls near (not inside) showers."
         },
         {
           "q": "How is it different from Venetian-style paint?",
-          "a": "Paint products marketed as 'Venetian' are tinted glazes on top of a flat base. True Venetian is physical plaster \u2014 the depth is layered material, not optical trick. The difference is immediately visible under raking light."
+          "a": "Paint products marketed as 'Venetian' are tinted glazes on top of a flat base. True Venetian is physical plaster — the depth is layered material, not optical trick. The difference is immediately visible under raking light."
         },
         {
           "q": "Can colours be matched to a Benjamin Moore / Farrow & Ball chip?",
-          "a": "Approximately. Lime plaster accepts mineral and iron-oxide tints which have their own palette \u2014 we'll produce a sample board matched as closely as possible, which may read slightly warmer or deeper than the paint chip."
+          "a": "Approximately. Lime plaster accepts mineral and iron-oxide tints which have their own palette — we'll produce a sample board matched as closely as possible, which may read slightly warmer or deeper than the paint chip."
         }
       ],
-      "photo": null,
-      "photoAlt": "Venetian plaster feature wall with polished finish and warm cream tone"
+      "photo": "/photos/venetian-plaster.jpg",
+      "photoAlt": "Venetian plaster wall finish in a modern GTA home — Decor Interior"
     },
     {
       "slug": "concrete-designs-on-walls",
       "name": "Concrete Designs on Walls",
       "shortName": "Concrete Wall Designs",
       "category": "decorative-walls",
-      "tagline": "Concrete-look wall surfaces \u2014 board-form, slab-cast appearance, or applied overlay. Industrial elegance.",
-      "description": "A concrete wall surface \u2014 real or applied \u2014 carries a specific aesthetic: the matte, mineral honesty of raw material. We create concrete-look wall surfaces three ways. Overlay: a thin cementitious layer trowelled over existing drywall or plaster, finished to look poured. Panel: large-format precast or lightweight GFRC panels installed as wall cladding with revealed joints. Board-form: a textured overlay that captures the imprint of wood boards, mimicking the construction-joint aesthetic of poured architectural concrete. All three systems give you the look without the structural reality \u2014 a concrete wall over studs and drywall, lighter than any slab, and sealed to resist moisture and staining. Finishes range from honed smooth to raw-cast to pigmented warm tones. Typically 4\u20136 days per feature wall; whole-room installations take 2 weeks.",
+      "tagline": "Concrete-look wall surfaces — board-form, slab-cast appearance, or applied overlay. Industrial elegance.",
+      "description": "A concrete wall surface — real or applied — carries a specific aesthetic: the matte, mineral honesty of raw material. We create concrete-look wall surfaces three ways. Overlay: a thin cementitious layer trowelled over existing drywall or plaster, finished to look poured. Panel: large-format precast or lightweight GFRC panels installed as wall cladding with revealed joints. Board-form: a textured overlay that captures the imprint of wood boards, mimicking the construction-joint aesthetic of poured architectural concrete. All three systems give you the look without the structural reality — a concrete wall over studs and drywall, lighter than any slab, and sealed to resist moisture and staining. Finishes range from honed smooth to raw-cast to pigmented warm tones. Typically 4–6 days per feature wall; whole-room installations take 2 weeks.",
       "features": [
         "Overlay, panel, or board-form systems",
         "Grey, warm-grey, charcoal, or custom pigmented",
         "Honed-smooth, matte, or textured finishes",
-        "Lightweight \u2014 no structural change to the wall",
+        "Lightweight — no structural change to the wall",
         "Breathable and sealed against moisture",
         "Revealed joints and board-form patterns on request"
       ],
       "process": [
         "Finish, pigment, and joint pattern selection",
-        "Substrate prep \u2014 level, prime, bond-coat",
+        "Substrate prep — level, prime, bond-coat",
         "Base layer trowel (overlay) or panel install (cladding)",
-        "Texture pass \u2014 board-form imprint or hand-trowel movement",
+        "Texture pass — board-form imprint or hand-trowel movement",
         "Pigment stain or integral colour application",
         "Seal with matte, satin, or honed topcoat"
       ],
@@ -668,7 +668,7 @@
       "faqs": [
         {
           "q": "Does it feel cold like real concrete?",
-          "a": "The surface reads cooler than drywall because it's mineral \u2014 but it won't dramatically affect room temperature since the mass behind is still wood or steel framing."
+          "a": "The surface reads cooler than drywall because it's mineral — but it won't dramatically affect room temperature since the mass behind is still wood or steel framing."
         },
         {
           "q": "Can I hang art and shelving?",
@@ -676,23 +676,23 @@
         },
         {
           "q": "How does it compare in cost to actual concrete?",
-          "a": "Dramatically cheaper, lighter, and installable in finished homes without structural work. Also fully reversible \u2014 a future owner can skim and paint over if they want a different look."
+          "a": "Dramatically cheaper, lighter, and installable in finished homes without structural work. Also fully reversible — a future owner can skim and paint over if they want a different look."
         }
       ],
-      "photo": null,
-      "photoAlt": "Concrete-look feature wall with board-form texture in a modern living room"
+      "photo": "/photos/concrete-designs-on-walls.jpg",
+      "photoAlt": "Decorative concrete designs applied to interior walls — Decor Interior"
     },
     {
       "slug": "decorative-interior-floor-coatings",
       "name": "Decorative Interior Floor Coatings",
       "shortName": "Decorative Floor Coatings",
       "category": "flooring",
-      "tagline": "Floor coatings designed as finished interiors \u2014 metallic, flake, quartz, and designer blend systems.",
-      "description": "A decorative floor coating isn't a utility surface \u2014 it's a floor you'd choose over hardwood or tile for the aesthetic. We work with metallic epoxies that pool and marble under the trowel, acrylic quartz systems that read like terrazzo, high-gloss designer flakes in custom colour blends, and matte designer-pigmented urethanes that look like honed concrete. These systems are a step up from standard epoxy or garage flooring: tighter prep, more hands-on application, and finish options tuned for interior living spaces instead of utility rooms. Typical installations run 3\u20135 days including cure, with the room usable (foot traffic) the day after the final coat and fully loaded a week later.",
+      "tagline": "Floor coatings designed as finished interiors — metallic, flake, quartz, and designer blend systems.",
+      "description": "A decorative floor coating isn't a utility surface — it's a floor you'd choose over hardwood or tile for the aesthetic. We work with metallic epoxies that pool and marble under the trowel, acrylic quartz systems that read like terrazzo, high-gloss designer flakes in custom colour blends, and matte designer-pigmented urethanes that look like honed concrete. These systems are a step up from standard epoxy or garage flooring: tighter prep, more hands-on application, and finish options tuned for interior living spaces instead of utility rooms. Typical installations run 3–5 days including cure, with the room usable (foot traffic) the day after the final coat and fully loaded a week later.",
       "features": [
         "Metallic epoxy with marbled movement",
         "Acrylic quartz / terrazzo-look systems",
-        "Designer flake blends \u2014 custom palette",
+        "Designer flake blends — custom palette",
         "Pigmented urethane with honed-concrete look",
         "Matte, satin, or high-gloss topcoat",
         "Seamless, hypoallergenic, allergen-friendly surface"
@@ -716,41 +716,41 @@
       "faqs": [
         {
           "q": "How is this different from regular epoxy?",
-          "a": "Standard epoxy is a utility surface \u2014 one base coat, one topcoat, solid colour or basic flake. Decorative systems use metallic resins, quartz aggregate, or designer flake blends that are specifically chosen for how they read as a finished floor in a living space."
+          "a": "Standard epoxy is a utility surface — one base coat, one topcoat, solid colour or basic flake. Decorative systems use metallic resins, quartz aggregate, or designer flake blends that are specifically chosen for how they read as a finished floor in a living space."
         },
         {
           "q": "Does it feel softer than tile?",
-          "a": "Marginally \u2014 the resin layer has slight give compared to tile or stone. It's warmer underfoot than concrete, cooler than wood."
+          "a": "Marginally — the resin layer has slight give compared to tile or stone. It's warmer underfoot than concrete, cooler than wood."
         },
         {
           "q": "How well does it hold up with pets?",
           "a": "Very well. Pet nails don't mark the topcoat (satin or matte hide any micro-scratches best), spills wipe up, and the surface is naturally antimicrobial after cure."
         }
       ],
-      "photo": null,
-      "photoAlt": "Metallic epoxy decorative floor coating with marbled bronze and silver movement"
+      "photo": "/photos/decorative-interior-floor-coatings.jpg",
+      "photoAlt": "Decorative interior floor coating — Decor Interior Toronto"
     },
     {
       "slug": "microcement",
       "name": "Microcement",
       "shortName": "Microcement",
       "category": "decorative-walls",
-      "tagline": "Seamless cementitious finish for floors, walls, bathrooms, and kitchens \u2014 2\u20133mm thick, no joints.",
-      "description": "Microcement is the finish that lets you specify concrete anywhere \u2014 bathroom walls, shower surrounds, kitchen counters, floors, feature walls, even furniture \u2014 without the weight, structural demand, or joints of actual concrete. It's a polymer-modified cementitious coating applied in two to three thin layers (total thickness 2\u20133 mm) over almost any substrate: drywall, existing tile, plywood, backer-board, concrete. The result is a seamless, waterproof, mineral surface that reads as honed concrete \u2014 matte, cool, with subtle hand-trowelled movement. Microcement has transformed European bathroom and kitchen design in the last decade because it eliminates grout lines entirely, which is why Toronto and GTA interior designers increasingly spec it. We install authentic imported systems (Topciment, Microbeton class) with the full prep: substrate consolidation, mesh reinforcement at joints, two base coats, two finish coats, and a two-part sealer rated for wet environments. Typical bathroom: 5\u20137 days including cure.",
+      "tagline": "Seamless cementitious finish for floors, walls, bathrooms, and kitchens — 2–3mm thick, no joints.",
+      "description": "Microcement is the finish that lets you specify concrete anywhere — bathroom walls, shower surrounds, kitchen counters, floors, feature walls, even furniture — without the weight, structural demand, or joints of actual concrete. It's a polymer-modified cementitious coating applied in two to three thin layers (total thickness 2–3 mm) over almost any substrate: drywall, existing tile, plywood, backer-board, concrete. The result is a seamless, waterproof, mineral surface that reads as honed concrete — matte, cool, with subtle hand-trowelled movement. Microcement has transformed European bathroom and kitchen design in the last decade because it eliminates grout lines entirely, which is why Toronto and GTA interior designers increasingly spec it. We install authentic imported systems (Topciment, Microbeton class) with the full prep: substrate consolidation, mesh reinforcement at joints, two base coats, two finish coats, and a two-part sealer rated for wet environments. Typical bathroom: 5–7 days including cure.",
       "features": [
-        "2\u20133 mm thick \u2014 installs over tile, drywall, concrete, plywood",
-        "Fully seamless \u2014 no grout lines anywhere",
-        "Fully waterproof when sealed \u2014 bathrooms, showers, kitchens",
-        "Mineral, matte finish \u2014 reads as honed concrete",
+        "2–3 mm thick — installs over tile, drywall, concrete, plywood",
+        "Fully seamless — no grout lines anywhere",
+        "Fully waterproof when sealed — bathrooms, showers, kitchens",
+        "Mineral, matte finish — reads as honed concrete",
         "Pigmentable to any palette (warm, cool, neutral)",
-        "Walls, floors, counters, built-ins \u2014 same system"
+        "Walls, floors, counters, built-ins — same system"
       ],
       "process": [
         "Substrate inspection and sample board",
-        "Prep \u2014 clean, consolidate, mesh at joints",
+        "Prep — clean, consolidate, mesh at joints",
         "Primer coat for substrate type",
         "Two base coats, each hand-trowelled and sanded",
-        "Two finish coats \u2014 colour and movement",
+        "Two finish coats — colour and movement",
         "Two-part sealer (urethane or epoxy) rated for the space",
         "Final buff and acceptance walkthrough"
       ],
@@ -764,19 +764,19 @@
       "faqs": [
         {
           "q": "Will microcement crack?",
-          "a": "If the substrate moves, any surface will crack \u2014 microcement, tile, hardwood. The install protocol specifically addresses this: mesh reinforcement over joints and transitions, consolidation of soft substrates, and controlled curing. Properly installed, it holds up for decades."
+          "a": "If the substrate moves, any surface will crack — microcement, tile, hardwood. The install protocol specifically addresses this: mesh reinforcement over joints and transitions, consolidation of soft substrates, and controlled curing. Properly installed, it holds up for decades."
         },
         {
           "q": "Is it slippery when wet?",
-          "a": "The topcoat sheen determines slip. Bathrooms and showers get a matte textured topcoat that meets Canadian bathroom slip-rating standards. High-gloss microcement would be slippery in a shower \u2014 we don't install it there."
+          "a": "The topcoat sheen determines slip. Bathrooms and showers get a matte textured topcoat that meets Canadian bathroom slip-rating standards. High-gloss microcement would be slippery in a shower — we don't install it there."
         },
         {
           "q": "Can microcement go over existing tile?",
-          "a": "Yes \u2014 this is one of its biggest advantages. We skim the grout lines flat with a consolidating primer, bond directly to the tile, then build up the microcement system. No demolition needed."
+          "a": "Yes — this is one of its biggest advantages. We skim the grout lines flat with a consolidating primer, bond directly to the tile, then build up the microcement system. No demolition needed."
         }
       ],
-      "photo": null,
-      "photoAlt": "Microcement finish on a modern bathroom wall and floor with seamless transition"
+      "photo": "/photos/microcement.jpg",
+      "photoAlt": "Seamless microcement finish in a GTA bathroom — Decor Interior"
     }
   ],
   "cities": [
@@ -796,7 +796,7 @@
         "Trinity Bellwoods",
         "High Park"
       ],
-      "localContext": "Toronto homes range from century-old Victorian and Edwardian builds through mid-century bungalows to new infill and condo stock \u2014 each with its own concrete substrate conditions. We adjust prep and specification based on what we find on site, from original 1920s basements to brand-new garage slabs.",
+      "localContext": "Toronto homes range from century-old Victorian and Edwardian builds through mid-century bungalows to new infill and condo stock — each with its own concrete substrate conditions. We adjust prep and specification based on what we find on site, from original 1920s basements to brand-new garage slabs.",
       "drivetime": "same-day",
       "isHighlighted": true
     },
@@ -811,7 +811,7 @@
         "North York Centre",
         "Lawrence Park"
       ],
-      "localContext": "North York's housing mix of post-war bungalows, custom new-builds, and high-density condo projects means we see every kind of interior concrete \u2014 from unfinished basement slabs to high-end polished-concrete main floors in custom homes.",
+      "localContext": "North York's housing mix of post-war bungalows, custom new-builds, and high-density condo projects means we see every kind of interior concrete — from unfinished basement slabs to high-end polished-concrete main floors in custom homes.",
       "drivetime": "same-day",
       "isHighlighted": false
     },
@@ -841,7 +841,7 @@
         "Islington",
         "Humber Bay Shores"
       ],
-      "localContext": "Etobicoke spans character neighbourhoods like The Kingsway, waterfront condo stock in Mimico and Humber Bay, and mid-century suburban housing \u2014 all served by a crew that knows the quirks of each era's concrete work.",
+      "localContext": "Etobicoke spans character neighbourhoods like The Kingsway, waterfront condo stock in Mimico and Humber Bay, and mid-century suburban housing — all served by a crew that knows the quirks of each era's concrete work.",
       "drivetime": "same-day",
       "isHighlighted": false
     },
@@ -872,7 +872,7 @@
         "Fletcher's Meadow",
         "Castlemore"
       ],
-      "localContext": "Brampton's rapid residential growth means a huge inventory of newer homes with unfinished garage and basement slabs \u2014 prime candidates for epoxy flooring and basement finish coatings. We handle the full range from townhouse garages to large-estate workshops.",
+      "localContext": "Brampton's rapid residential growth means a huge inventory of newer homes with unfinished garage and basement slabs — prime candidates for epoxy flooring and basement finish coatings. We handle the full range from townhouse garages to large-estate workshops.",
       "drivetime": "same-day",
       "isHighlighted": false
     },
@@ -902,7 +902,7 @@
         "Berczy Village",
         "Angus Glen"
       ],
-      "localContext": "Markham homes trend toward high-spec finishes and larger-than-average garages and basements \u2014 making it one of our most frequent sources of garage epoxy, basement coating, and decorative concrete feature requests.",
+      "localContext": "Markham homes trend toward high-spec finishes and larger-than-average garages and basements — making it one of our most frequent sources of garage epoxy, basement coating, and decorative concrete feature requests.",
       "drivetime": "same-day",
       "isHighlighted": true
     },
@@ -991,7 +991,7 @@
         "Palgrave",
         "Alton"
       ],
-      "localContext": "Caledon's larger-lot estate properties and converted farmhouses mean oversized garages, workshops, and basements \u2014 all excellent candidates for epoxy and decorative concrete work. Expect same-week scheduling from our GTA crew.",
+      "localContext": "Caledon's larger-lot estate properties and converted farmhouses mean oversized garages, workshops, and basements — all excellent candidates for epoxy and decorative concrete work. Expect same-week scheduling from our GTA crew.",
       "drivetime": "same-day",
       "isHighlighted": false
     },
@@ -1033,7 +1033,7 @@
         "Schomberg",
         "Kleinburg (shared)"
       ],
-      "localContext": "King Township's estate properties and rural-residential homes often feature oversized garages, workshops, and dedicated hobby spaces \u2014 perfect for high-build epoxy flooring and custom decorative concrete work.",
+      "localContext": "King Township's estate properties and rural-residential homes often feature oversized garages, workshops, and dedicated hobby spaces — perfect for high-build epoxy flooring and custom decorative concrete work.",
       "drivetime": "same-day",
       "isHighlighted": false
     },
@@ -1062,7 +1062,7 @@
         "Highbush",
         "Amberlea"
       ],
-      "localContext": "Pickering homes along the lakeshore and newer builds inland both benefit from durable interior finishes \u2014 epoxy flooring in garages and basements, and polished concrete in modern builds along the water.",
+      "localContext": "Pickering homes along the lakeshore and newer builds inland both benefit from durable interior finishes — epoxy flooring in garages and basements, and polished concrete in modern builds along the water.",
       "drivetime": "next-day",
       "isHighlighted": false
     },
@@ -1076,7 +1076,7 @@
         "Westney Heights",
         "Nottingham"
       ],
-      "localContext": "Ajax's family-oriented residential growth means lots of basements being finished and lots of garages ready for upgrade \u2014 our Durham-side service covers Ajax same-week with the same crew that handles the central GTA.",
+      "localContext": "Ajax's family-oriented residential growth means lots of basements being finished and lots of garages ready for upgrade — our Durham-side service covers Ajax same-week with the same crew that handles the central GTA.",
       "drivetime": "next-day",
       "isHighlighted": false
     },
@@ -1124,5 +1124,81 @@
       "isHighlighted": false
     }
   ],
-  "gallery": []
+  "gallery": [
+    {
+      "src": "/photos/residential-epoxy-flooring.jpg",
+      "alt": "Residential epoxy flooring installed in a modern GTA home — Decor Interior",
+      "service": "residential-epoxy-flooring"
+    },
+    {
+      "src": "/photos/commercial-epoxy-flooring.jpg",
+      "alt": "Commercial epoxy flooring in a GTA commercial space — Decor Interior",
+      "service": "commercial-epoxy-flooring"
+    },
+    {
+      "src": "/photos/polished-concrete-floors.jpg",
+      "alt": "Polished concrete floor finish in a modern interior — Decor Interior",
+      "service": "polished-concrete-floors"
+    },
+    {
+      "src": "/photos/concrete-staining.jpg",
+      "alt": "Stained decorative concrete flooring — Decor Interior Toronto",
+      "service": "concrete-staining"
+    },
+    {
+      "src": "/photos/decorative-concrete-overlays.jpg",
+      "alt": "Decorative concrete overlay surface finish — Decor Interior GTA",
+      "service": "decorative-concrete-overlays"
+    },
+    {
+      "src": "/photos/basement-floor-coating.jpg",
+      "alt": "Finished basement floor coating in a GTA home — Decor Interior",
+      "service": "basement-floor-coating"
+    },
+    {
+      "src": "/photos/interior-concrete-resurfacing.jpg",
+      "alt": "Interior concrete resurfacing finish — Decor Interior Toronto",
+      "service": "interior-concrete-resurfacing"
+    },
+    {
+      "src": "/photos/decorative-concrete-features.jpg",
+      "alt": "Decorative concrete architectural features — Decor Interior GTA",
+      "service": "decorative-concrete-features"
+    },
+    {
+      "src": "/photos/interior-stucco-accent-walls.jpg",
+      "alt": "Interior stucco accent wall finish — Decor Interior Toronto",
+      "service": "interior-stucco-accent-walls"
+    },
+    {
+      "src": "/photos/decorative-wall-finishes.jpg",
+      "alt": "Decorative interior wall finish — Decor Interior GTA",
+      "service": "decorative-wall-finishes"
+    },
+    {
+      "src": "/photos/architectural-wall-designs.jpg",
+      "alt": "Architectural wall design with custom panels and finishes — Decor Interior",
+      "service": "architectural-wall-designs"
+    },
+    {
+      "src": "/photos/venetian-plaster.jpg",
+      "alt": "Venetian plaster wall finish in a modern GTA home — Decor Interior",
+      "service": "venetian-plaster"
+    },
+    {
+      "src": "/photos/concrete-designs-on-walls.jpg",
+      "alt": "Decorative concrete designs applied to interior walls — Decor Interior",
+      "service": "concrete-designs-on-walls"
+    },
+    {
+      "src": "/photos/decorative-interior-floor-coatings.jpg",
+      "alt": "Decorative interior floor coating — Decor Interior Toronto",
+      "service": "decorative-interior-floor-coatings"
+    },
+    {
+      "src": "/photos/microcement.jpg",
+      "alt": "Seamless microcement finish in a GTA bathroom — Decor Interior",
+      "service": "microcement"
+    }
+  ]
 }
