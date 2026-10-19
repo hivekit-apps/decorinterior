@@ -4,6 +4,8 @@ import { notFound } from 'next/navigation';
 import { getSiteConfig, getService } from '@/lib/config';
 import { breadcrumbJsonLd, faqJsonLd, serviceJsonLd } from '@/lib/jsonld';
 import LeadForm from '@/components/LeadForm';
+import ServiceHero from '@/components/ServiceHero';
+import ServiceGallery from '@/components/ServiceGallery';
 
 export const revalidate = 300;
 
@@ -36,40 +38,41 @@ export default function ServiceDetailPage({ params }: { params: { service: strin
     { name: s.name, url: `${cfg.business.siteUrl}/services/${s.slug}` },
   ];
 
+  const categoryName =
+    cfg.categories.find((c) => c.slug === s.category)?.name || s.category;
+
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(serviceJsonLd(s)) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd(crumbs)) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd(s.faqs)) }} />
 
-      {/* Hero */}
-      <section className="bg-charcoal text-cream py-16 md:py-20">
-        <div className="container-wide">
-          <nav className="text-xs uppercase tracking-widest text-cream/50 mb-5">
-            <Link href="/" className="hover:text-bronze">Home</Link> / <Link href="/services" className="hover:text-bronze">Services</Link> / <span className="text-cream/80">{s.shortName}</span>
-          </nav>
-          <div className="max-w-3xl">
-            <p className="uppercase tracking-widest text-xs text-bronze font-semibold mb-3">
-              {cfg.categories.find((c) => c.slug === s.category)?.name || s.category}
-            </p>
-            <h1 className="display text-4xl md:text-5xl mb-5 leading-tight">{s.name} — Toronto &amp; GTA</h1>
-            <p className="text-lg text-cream/80">{s.tagline}</p>
-          </div>
-        </div>
-      </section>
+      <ServiceHero
+        eyebrow={categoryName}
+        title={`${s.name} — Toronto & GTA`}
+        tagline={s.tagline}
+        photo={s.photo}
+        photoAlt={s.photoAlt}
+        breadcrumbs={[
+          { label: 'Home', href: '/' },
+          { label: 'Services', href: '/services' },
+          { label: s.shortName },
+        ]}
+        quoteHref="#quote"
+      />
 
       {/* Body */}
-      <section className="py-16 bg-cream">
+      <section className="py-14 md:py-20 bg-cream">
         <div className="container-wide grid lg:grid-cols-3 gap-12">
           <div className="lg:col-span-2 space-y-12">
             <div>
               <h2 className="display text-2xl md:text-3xl mb-5">About this service</h2>
-              <p className="text-softgray leading-relaxed text-base">{s.description}</p>
+              <p className="text-softgray leading-relaxed text-base max-w-[62ch]">{s.description}</p>
             </div>
 
             <div>
               <h2 className="display text-2xl md:text-3xl mb-5">Our process</h2>
-              <ol className="space-y-3 text-softgray">
+              <ol className="space-y-3 text-softgray max-w-[62ch]">
                 {s.process.map((step, i) => (
                   <li key={i} className="flex gap-4">
                     <span className="text-bronze font-semibold w-6 shrink-0 mt-0.5">{String(i + 1).padStart(2, '0')}</span>
@@ -115,7 +118,7 @@ export default function ServiceDetailPage({ params }: { params: { service: strin
           </div>
 
           {/* Sidebar lead form */}
-          <aside className="lg:sticky lg:top-6 lg:self-start">
+          <aside id="quote" className="lg:sticky lg:top-6 lg:self-start">
             <div className="bg-white border border-charcoal/10 rounded-sm p-6 shadow-sm">
               <div className="display text-xl mb-1">Request a quote</div>
               <p className="text-sm text-softgray mb-5">Tell us about your {s.shortName.toLowerCase()} project.</p>
@@ -125,8 +128,15 @@ export default function ServiceDetailPage({ params }: { params: { service: strin
         </div>
       </section>
 
+      {/* Gallery (optional per-service; renders only when gallery populated) */}
+      <ServiceGallery
+        title={`Recent ${s.shortName.toLowerCase()} work`}
+        intro={`A selection of ${s.shortName.toLowerCase()} installations across the GTA.`}
+        items={s.gallery ?? []}
+      />
+
       {/* City links */}
-      <section className="py-16 bg-white border-t border-charcoal/10">
+      <section className="py-14 md:py-20 bg-white border-t border-charcoal/10">
         <div className="container-wide">
           <h2 className="display text-2xl md:text-3xl mb-2">We serve these cities</h2>
           <p className="text-softgray mb-6 text-sm">

@@ -13,3 +13,6 @@ next-env.d.ts
 # LB-CS-14: originals backup is local-only, do not ship
 public/photos/.originals_backup/
 scripts/compress_sources_result.json
+
+# Fan-out patches: ephemeral intermediate artifacts from Phase B sub-agents
+.fanout_patches/

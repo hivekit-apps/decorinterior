@@ -12,6 +12,10 @@ export type Category = {
 
 export type ServiceFaq = { q: string; a: string };
 
+// LB-CS-15 image classification: service-gallery items are work-portfolio-service only.
+// NEVER team-portrait, team-process, logo, or background-texture.
+export type ServiceGalleryItem = { src: string; alt: string; caption?: string };
+
 export type Service = {
   slug: string;
   name: string;
@@ -25,6 +29,7 @@ export type Service = {
   faqs: ServiceFaq[];
   photo: string | null;
   photoAlt: string;
+  gallery?: ServiceGalleryItem[];
 };
 
 export type City = {

@@ -1,10 +1,11 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { getSiteConfig, getService, getCity, getNearbyCities, telHref } from '@/lib/config';
+import { getSiteConfig, getService, getCity, getNearbyCities } from '@/lib/config';
 import { breadcrumbJsonLd, faqJsonLd, localBusinessJsonLd, serviceJsonLd } from '@/lib/jsonld';
 import { crossPageParagraphs, crossPageFaqs } from '@/lib/cross-content';
 import LeadForm from '@/components/LeadForm';
+import ServiceHero from '@/components/ServiceHero';
 
 export const revalidate = 300;
 export const dynamicParams = true;
@@ -66,32 +67,22 @@ export default function ServiceCityPage({
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd(crumbs)) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd(faqs)) }} />
 
-      <section className="bg-charcoal text-cream py-16 md:py-20">
-        <div className="container-wide">
-          <nav className="text-xs uppercase tracking-widest text-cream/50 mb-5">
-            <Link href="/" className="hover:text-bronze">Home</Link> / <Link href="/services" className="hover:text-bronze">Services</Link> / <Link href={`/services/${s.slug}`} className="hover:text-bronze">{s.shortName}</Link> / <span className="text-cream/80">{c.name}</span>
-          </nav>
-          <div className="max-w-3xl">
-            <p className="uppercase tracking-widest text-xs text-bronze font-semibold mb-3">
-              {c.region} · {c.drivetime === 'same-day' ? 'Same-day consult' : 'Next-day consult'}
-            </p>
-            <h1 className="display text-4xl md:text-5xl mb-5 leading-tight">
-              {s.name} in {c.name}
-            </h1>
-            <p className="text-lg text-cream/80">{s.tagline}</p>
-            <div className="mt-6 flex flex-wrap gap-3">
-              <a href={telHref(cfg.business.phone)} className="btn-primary">
-                Call {cfg.business.phoneDisplay}
-              </a>
-              <a href="#quote" className="btn-outline !border-cream !text-cream hover:!bg-cream hover:!text-charcoal">
-                Request a quote
-              </a>
-            </div>
-          </div>
-        </div>
-      </section>
+      <ServiceHero
+        eyebrow={`${c.region} · ${c.drivetime === 'same-day' ? 'Same-day consult' : 'Next-day consult'}`}
+        title={`${s.name} in ${c.name}`}
+        tagline={s.tagline}
+        photo={s.photo}
+        photoAlt={`${s.name} in ${c.name} — ${s.photoAlt}`}
+        breadcrumbs={[
+          { label: 'Home', href: '/' },
+          { label: 'Services', href: '/services' },
+          { label: s.shortName, href: `/services/${s.slug}` },
+          { label: c.name },
+        ]}
+        quoteHref="#quote"
+      />
 
-      <section className="py-16 bg-cream">
+      <section className="py-14 md:py-20 bg-cream">
         <div className="container-wide grid lg:grid-cols-3 gap-12">
           <div className="lg:col-span-2 space-y-10">
             <div>

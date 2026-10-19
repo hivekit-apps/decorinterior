@@ -85,7 +85,21 @@
         }
       ],
       "photo": "/photos/residential-epoxy-flooring.jpg",
-      "photoAlt": "Residential epoxy flooring installed in a modern GTA home — Decor Interior"
+      "photoAlt": "Residential epoxy flooring installed in a modern GTA home — Decor Interior",
+      "gallery": [
+        {
+          "src": "/photos/residential-epoxy-flooring__g1.jpg",
+          "alt": "Charcoal matte epoxy floor in a finished Toronto basement rec room with daylight windows"
+        },
+        {
+          "src": "/photos/residential-epoxy-flooring__g2.jpg",
+          "alt": "Warm tan flake epoxy in a GTA mudroom entry, seamless at the baseboards"
+        },
+        {
+          "src": "/photos/residential-epoxy-flooring__g3.jpg",
+          "alt": "Metallic marbled epoxy floor in a home gym conversion, Oakville residential garage"
+        }
+      ]
     },
     {
       "slug": "commercial-epoxy-flooring",
@@ -138,7 +152,21 @@
         }
       ],
       "photo": "/photos/commercial-epoxy-flooring.jpg",
-      "photoAlt": "Commercial epoxy flooring in a GTA commercial space — Decor Interior"
+      "photoAlt": "Commercial epoxy flooring in a GTA commercial space — Decor Interior",
+      "gallery": [
+        {
+          "src": "/photos/commercial-epoxy-flooring__g1.jpg",
+          "alt": "High-gloss grey epoxy on a Toronto car showroom floor reflecting overhead track lights"
+        },
+        {
+          "src": "/photos/commercial-epoxy-flooring__g2.jpg",
+          "alt": "Impact-rated epoxy floor with safety yellow lane markings in a GTA warehouse aisle"
+        },
+        {
+          "src": "/photos/commercial-epoxy-flooring__g3.jpg",
+          "alt": "Satin polyaspartic floor in a Mississauga retail showroom with rolling display fixtures"
+        }
+      ]
     },
     {
       "slug": "polished-concrete-floors",
@@ -190,7 +218,21 @@
         }
       ],
       "photo": "/photos/polished-concrete-floors.jpg",
-      "photoAlt": "Polished concrete floor finish in a modern interior — Decor Interior"
+      "photoAlt": "Polished concrete floor finish in a modern interior — Decor Interior",
+      "gallery": [
+        {
+          "src": "/photos/polished-concrete-floors__g1.jpg",
+          "alt": "Salt-and-pepper polished concrete slab in an open-plan Toronto loft kitchen and living area"
+        },
+        {
+          "src": "/photos/polished-concrete-floors__g2.jpg",
+          "alt": "Honed matte concrete floor in a minimalist GTA gallery space with white walls"
+        },
+        {
+          "src": "/photos/polished-concrete-floors__g3.jpg",
+          "alt": "Full-aggregate mirror-polished concrete in a converted industrial residence, downtown Toronto"
+        }
+      ]
     },
     {
       "slug": "concrete-staining",
@@ -240,7 +282,21 @@
         }
       ],
       "photo": "/photos/concrete-staining.jpg",
-      "photoAlt": "Stained decorative concrete flooring — Decor Interior Toronto"
+      "photoAlt": "Stained decorative concrete flooring — Decor Interior Toronto",
+      "gallery": [
+        {
+          "src": "/photos/concrete-staining__g1.jpg",
+          "alt": "Acid-stained concrete floor in mottled copper tones, Toronto open-plan main floor with daylight"
+        },
+        {
+          "src": "/photos/concrete-staining__g2.jpg",
+          "alt": "Variegated amber and charcoal stained concrete slab in GTA loft dining area"
+        },
+        {
+          "src": "/photos/concrete-staining__g3.jpg",
+          "alt": "Translucent walnut-brown concrete stain across Mississauga kitchen floor with island"
+        }
+      ]
     },
     {
       "slug": "decorative-concrete-overlays",
@@ -290,7 +346,21 @@
         }
       ],
       "photo": "/photos/decorative-concrete-overlays.jpg",
-      "photoAlt": "Decorative concrete overlay surface finish — Decor Interior GTA"
+      "photoAlt": "Decorative concrete overlay surface finish — Decor Interior GTA",
+      "gallery": [
+        {
+          "src": "/photos/decorative-concrete-overlays__g1.jpg",
+          "alt": "Trowel-finished grey concrete overlay resurfacing worn basement slab in Etobicoke home"
+        },
+        {
+          "src": "/photos/decorative-concrete-overlays__g2.jpg",
+          "alt": "Stamped slate-pattern concrete overlay on GTA sunroom floor with limestone accents"
+        },
+        {
+          "src": "/photos/decorative-concrete-overlays__g3.jpg",
+          "alt": "Spray-textured sand-coloured overlay resurfacing North York commercial retail floor"
+        }
+      ]
     },
     {
       "slug": "basement-floor-coating",
@@ -340,7 +410,21 @@
         }
       ],
       "photo": "/photos/basement-floor-coating.jpg",
-      "photoAlt": "Finished basement floor coating in a GTA home — Decor Interior"
+      "photoAlt": "Finished basement floor coating in a GTA home — Decor Interior",
+      "gallery": [
+        {
+          "src": "/photos/basement-floor-coating__g1.jpg",
+          "alt": "Sealed epoxy basement floor coating in slate grey, Vaughan finished rec room"
+        },
+        {
+          "src": "/photos/basement-floor-coating__g2.jpg",
+          "alt": "Satin-sheen polyurethane basement coating in warm beige, Oakville home office"
+        },
+        {
+          "src": "/photos/basement-floor-coating__g3.jpg",
+          "alt": "Flake-blend decorative basement coating in charcoal and tan, Richmond Hill home theatre"
+        }
+      ]
     },
     {
       "slug": "interior-concrete-resurfacing",
@@ -390,7 +474,21 @@
         }
       ],
       "photo": "/photos/interior-concrete-resurfacing.jpg",
-      "photoAlt": "Interior concrete resurfacing finish — Decor Interior Toronto"
+      "photoAlt": "Interior concrete resurfacing finish — Decor Interior Toronto",
+      "gallery": [
+        {
+          "src": "/photos/interior-concrete-resurfacing__g1.jpg",
+          "alt": "Resurfaced interior concrete floor with grey microtopping overlay, Toronto open-plan loft space"
+        },
+        {
+          "src": "/photos/interior-concrete-resurfacing__g2.jpg",
+          "alt": "Patched and honed concrete slab repairing spalled surface, GTA basement conversion"
+        },
+        {
+          "src": "/photos/interior-concrete-resurfacing__g3.jpg",
+          "alt": "Sealed charcoal concrete floor after pit repair, Mississauga ground-floor condominium"
+        }
+      ]
     },
     {
       "slug": "decorative-concrete-features",
@@ -441,7 +539,21 @@
         }
       ],
       "photo": "/photos/decorative-concrete-features.jpg",
-      "photoAlt": "Decorative concrete architectural features — Decor Interior GTA"
+      "photoAlt": "Decorative concrete architectural features — Decor Interior GTA",
+      "gallery": [
+        {
+          "src": "/photos/decorative-concrete-features__g1.jpg",
+          "alt": "Poured concrete kitchen island countertop with waterfall edge, Toronto residential kitchen"
+        },
+        {
+          "src": "/photos/decorative-concrete-features__g2.jpg",
+          "alt": "Board-formed concrete feature wall beside steel staircase, Etobicoke custom-home interior"
+        },
+        {
+          "src": "/photos/decorative-concrete-features__g3.jpg",
+          "alt": "Cast concrete hearth surround with linear fireplace, Oakville family-room installation"
+        }
+      ]
     },
     {
       "slug": "interior-stucco-accent-walls",
@@ -492,7 +604,21 @@
         }
       ],
       "photo": "/photos/interior-stucco-accent-walls.jpg",
-      "photoAlt": "Interior stucco accent wall finish — Decor Interior Toronto"
+      "photoAlt": "Interior stucco accent wall finish — Decor Interior Toronto",
+      "gallery": [
+        {
+          "src": "/photos/interior-stucco-accent-walls__g1.jpg",
+          "alt": "Troweled venetian plaster accent wall in warm limestone tone, Toronto dining room"
+        },
+        {
+          "src": "/photos/interior-stucco-accent-walls__g2.jpg",
+          "alt": "Hand-applied lime stucco textured feature wall behind linen sofa, North York living room"
+        },
+        {
+          "src": "/photos/interior-stucco-accent-walls__g3.jpg",
+          "alt": "Burnished clay-plaster accent wall framing arched doorway, GTA mid-century renovation"
+        }
+      ]
     },
     {
       "slug": "decorative-wall-finishes",
@@ -539,7 +665,21 @@
         }
       ],
       "photo": "/photos/decorative-wall-finishes.jpg",
-      "photoAlt": "Decorative interior wall finish — Decor Interior GTA"
+      "photoAlt": "Decorative interior wall finish — Decor Interior GTA",
+      "gallery": [
+        {
+          "src": "/photos/decorative-wall-finishes__g1.jpg",
+          "alt": "Limewashed warm-cream decorative wall finish in Toronto dining room with daylight window"
+        },
+        {
+          "src": "/photos/decorative-wall-finishes__g2.jpg",
+          "alt": "Brushed metallic bronze decorative finish on Mississauga boutique retail fitting zone wall"
+        },
+        {
+          "src": "/photos/decorative-wall-finishes__g3.jpg",
+          "alt": "Honed-stone matte wall finish in soft taupe, Oakville primary bedroom accent wall"
+        }
+      ]
     },
     {
       "slug": "architectural-wall-designs",
@@ -586,7 +726,21 @@
         }
       ],
       "photo": "/photos/architectural-wall-designs.jpg",
-      "photoAlt": "Architectural wall design with custom panels and finishes — Decor Interior"
+      "photoAlt": "Architectural wall design with custom panels and finishes — Decor Interior",
+      "gallery": [
+        {
+          "src": "/photos/architectural-wall-designs__g1.jpg",
+          "alt": "Fluted plaster panel composition around a GTA fireplace surround with brass reveals"
+        },
+        {
+          "src": "/photos/architectural-wall-designs__g2.jpg",
+          "alt": "Large-format concrete-look slab entry wall with shadow-line reveals, Toronto residential foyer"
+        },
+        {
+          "src": "/photos/architectural-wall-designs__g3.jpg",
+          "alt": "Microcement feature wall with inset brass trim in a North York office reception"
+        }
+      ]
     },
     {
       "slug": "venetian-plaster",
@@ -633,7 +787,21 @@
         }
       ],
       "photo": "/photos/venetian-plaster.jpg",
-      "photoAlt": "Venetian plaster wall finish in a modern GTA home — Decor Interior"
+      "photoAlt": "Venetian plaster wall finish in a modern GTA home — Decor Interior",
+      "gallery": [
+        {
+          "src": "/photos/venetian-plaster__g1.jpg",
+          "alt": "Hand-burnished venetian plaster in warm limestone tones on Toronto primary bathroom wall"
+        },
+        {
+          "src": "/photos/venetian-plaster__g2.jpg",
+          "alt": "Marmorino venetian plaster in soft greige with wax seal, GTA formal dining room"
+        },
+        {
+          "src": "/photos/venetian-plaster__g3.jpg",
+          "alt": "Grassello venetian plaster in deep terracotta on a Vaughan hospitality lounge feature wall"
+        }
+      ]
     },
     {
       "slug": "concrete-designs-on-walls",
@@ -680,7 +848,21 @@
         }
       ],
       "photo": "/photos/concrete-designs-on-walls.jpg",
-      "photoAlt": "Decorative concrete designs applied to interior walls — Decor Interior"
+      "photoAlt": "Decorative concrete designs applied to interior walls — Decor Interior",
+      "gallery": [
+        {
+          "src": "/photos/concrete-designs-on-walls__g1.jpg",
+          "alt": "Board-form concrete-look media wall with recessed linear fireplace, Toronto loft living room"
+        },
+        {
+          "src": "/photos/concrete-designs-on-walls__g2.jpg",
+          "alt": "Honed slab-cast overlay wall behind king bed in Vaughan industrial-modern primary bedroom"
+        },
+        {
+          "src": "/photos/concrete-designs-on-walls__g3.jpg",
+          "alt": "Warm-grey panel-system backdrop with revealed joints behind Toronto restaurant bar counter"
+        }
+      ]
     },
     {
       "slug": "decorative-interior-floor-coatings",
@@ -728,7 +910,21 @@
         }
       ],
       "photo": "/photos/decorative-interior-floor-coatings.jpg",
-      "photoAlt": "Decorative interior floor coating — Decor Interior Toronto"
+      "photoAlt": "Decorative interior floor coating — Decor Interior Toronto",
+      "gallery": [
+        {
+          "src": "/photos/decorative-interior-floor-coatings__g1.jpg",
+          "alt": "Pearl metallic epoxy floor with marbled movement in Oakville basement entertaining space"
+        },
+        {
+          "src": "/photos/decorative-interior-floor-coatings__g2.jpg",
+          "alt": "Acrylic quartz terrazzo-look floor system in Toronto furniture showroom with pendant lighting"
+        },
+        {
+          "src": "/photos/decorative-interior-floor-coatings__g3.jpg",
+          "alt": "Designer flake blend floor in slate and bronze across Mississauga open-plan loft kitchen"
+        }
+      ]
     },
     {
       "slug": "microcement",
@@ -776,7 +972,21 @@
         }
       ],
       "photo": "/photos/microcement.jpg",
-      "photoAlt": "Seamless microcement finish in a GTA bathroom — Decor Interior"
+      "photoAlt": "Seamless microcement finish in a GTA bathroom — Decor Interior",
+      "gallery": [
+        {
+          "src": "/photos/microcement__g1.jpg",
+          "alt": "Seamless matte microcement shower surround and floor in Toronto ensuite, no grout lines"
+        },
+        {
+          "src": "/photos/microcement__g2.jpg",
+          "alt": "Pigmented microcement waterfall island and backsplash in Etobicoke kitchen, warm neutral tone"
+        },
+        {
+          "src": "/photos/microcement__g3.jpg",
+          "alt": "Cool-grey microcement wrapping walls and floor of Richmond Hill powder room with floating vanity"
+        }
+      ]
     }
   ],
   "cities": [
