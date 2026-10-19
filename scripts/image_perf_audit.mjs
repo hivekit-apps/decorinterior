@@ -65,7 +65,9 @@ async function checkStaticAssets() {
 }
 
 async function checkNextConfig() {
-  const path = join(ROOT, 'next.config.ts')
+  let path = join(ROOT, 'next.config.ts')
+  try { await stat(path) } catch { path = join(ROOT, 'next.config.mjs') }
+  try { await stat(path) } catch { path = join(ROOT, 'next.config.js') }
   const src = await readFile(path, 'utf8')
   const hasMinTTL = /minimumCacheTTL\s*:/.test(src)
   const avifMatch = /formats\s*:\s*\[[^\]]*image\/avif/.test(src)
