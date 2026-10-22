@@ -1,6 +1,6 @@
 'use client';
 import Link from 'next/link';
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import { getSiteConfig, telHref } from '@/lib/config';
 
 export default function SiteHeader() {
@@ -13,6 +13,29 @@ export default function SiteHeader() {
   // Highlighted cities first, then the rest — stable order for both dropdowns + mobile menu.
   const highlightedCities = cities.filter((c) => c.isHighlighted);
   const otherCities = cities.filter((c) => !c.isHighlighted);
+
+  // Escape closes any open menu/dropdown.
+  useEffect(() => {
+    function onKey(e: KeyboardEvent) {
+      if (e.key === 'Escape') {
+        setMobileOpen(false);
+        setServicesOpen(false);
+        setAreasOpen(false);
+      }
+    }
+    document.addEventListener('keydown', onKey);
+    return () => document.removeEventListener('keydown', onKey);
+  }, []);
+
+  // Lock body scroll while mobile menu is open.
+  useEffect(() => {
+    if (typeof document === 'undefined') return;
+    const prev = document.body.style.overflow;
+    document.body.style.overflow = mobileOpen ? 'hidden' : prev;
+    return () => {
+      document.body.style.overflow = prev;
+    };
+  }, [mobileOpen]);
 
   return (
     <header className="border-b border-charcoal/10 bg-cream">
@@ -38,6 +61,7 @@ export default function SiteHeader() {
               className="inline-flex items-center gap-1 hover:text-bronze transition"
               aria-expanded={servicesOpen}
               aria-haspopup="menu"
+              aria-controls="menu-services-desktop"
               onMouseEnter={() => setServicesOpen(true)}
               onClick={() => setServicesOpen((v) => !v)}
             >
@@ -46,6 +70,7 @@ export default function SiteHeader() {
             </button>
             {servicesOpen && (
               <div
+                id="menu-services-desktop"
                 role="menu"
                 className="absolute left-0 top-full z-40 mt-2 min-w-[560px] rounded-sm border border-charcoal/10 bg-cream p-5 shadow-lg"
               >
@@ -95,6 +120,7 @@ export default function SiteHeader() {
               className="inline-flex items-center gap-1 hover:text-bronze transition"
               aria-expanded={areasOpen}
               aria-haspopup="menu"
+              aria-controls="menu-areas-desktop"
               onMouseEnter={() => setAreasOpen(true)}
               onClick={() => setAreasOpen((v) => !v)}
             >
@@ -103,6 +129,7 @@ export default function SiteHeader() {
             </button>
             {areasOpen && (
               <div
+                id="menu-areas-desktop"
                 role="menu"
                 className="absolute left-0 top-full z-40 mt-2 min-w-[360px] rounded-sm border border-charcoal/10 bg-cream p-5 shadow-lg"
               >
@@ -193,6 +220,7 @@ export default function SiteHeader() {
       {mobileOpen && (
         <div className="md:hidden w-full border-t border-charcoal/10 bg-cream">
           <nav
+            key="mobile-open"
             className="container-wide flex flex-col py-4"
             aria-label="Mobile primary"
           >
