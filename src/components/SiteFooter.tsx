@@ -53,7 +53,20 @@ export default function SiteFooter() {
       <div className="border-t border-cream/10">
         <div className="container-wide py-5 text-xs text-cream/50 flex flex-col md:flex-row justify-between gap-2">
           <div>© {new Date().getFullYear()} {business.parentName}. All rights reserved.</div>
-          <div>Built for the GTA. Operating year-round.</div>
+          <div className="flex flex-col md:flex-row gap-2 md:gap-4">
+            <span>Built for the GTA. Operating year-round.</span>
+            <span>
+              Created by{' '}
+              <a
+                href="https://metatron.to"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="underline hover:text-bronze transition"
+              >
+                Metatron
+              </a>
+            </span>
+          </div>
         </div>
       </div>
     </footer>
